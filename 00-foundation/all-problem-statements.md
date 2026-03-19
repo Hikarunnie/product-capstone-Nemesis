@@ -39,30 +39,38 @@
 #### H1 -- Hairband
 
 **Problem:**
+Students learning programming spend 30–60 minutes stuck on very small errors (such as syntax mistakes) because they cannot easily identify what is wrong, even when the problem is simple.
 
 **Where this observation comes from:**
+I experience this myself while studying coding. Recently, I spent around an hour trying to fix a single syntax error because I could not find where the mistake was. Situations like this happen often and slow down my progress significantly.
 
 **Rough severity estimate:**
-
+The problem does not stop learning completely, but it wastes a lot of time and creates frustration over small issues.
 ---
 
 #### H2 -- Headache
 
 **Problem:**
+Students learning programming struggle to start solving tasks because they do not understand how to approach the problem, even if they know the basic concepts.
 
 **Where this observation comes from:**
+I experience this during coding assignments where I understand the topic in theory, but when I see the task, I don’t know how to begin. This leads to spending a long time just thinking about where to start instead of actually solving the problem.
 
 **Rough severity estimate:**
+This slows down progress and reduces confidence, especially when tasks take longer than expected to begin.
 
 ---
 
 #### H3 -- Heartburn
 
 **Problem:**
+Students trying to stay consistent with studying lose motivation when they do not understand material on the first try, leading them to stop studying instead of continuing.
 
 **Where this observation comes from:**
+I experience this personally. When I do not understand something quickly, I lose motivation and find it difficult to continue studying, especially when I already feel low on time and energy.
 
 **Rough severity estimate:**
+This affects long-term consistency and makes it harder to build strong study habits.
 
 ---
 
