@@ -125,7 +125,7 @@ This makes it hard for small creators to grow, showcase their art, earn stable i
 
 ---
 
-### Tako Vatcharadze
+### Tamar Vatcharadze
 
 #### H1 -- Hairband
 
