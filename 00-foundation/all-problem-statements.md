@@ -170,7 +170,7 @@ This directly affects time management and creates frustration, especially during
 | 1 | Students struggle to wake up on time due to ineffective phone alarms that are easy to ignore or snooze  | Ketevan Shavadze  | H1 | Medium    |
 | 2 | Students lose focus while studying because of constant digital distractions like notifications and social media   | Ketevan Shavadze  | H2 | High    |
 | 3 | Students living away from home struggle to maintain healthy eating habits due to time and budget constraints   | Ketevan Shavadze  | H3 | High    |
-| to do | to do   | to do  | to do | to do    |
+| 4 | Students struggle to maintain a consistent sleep schedule because of low motivation and confusion about how to manage their time   | Tamar Vatcharadze  | H4 | medium    |
 | to do | to do   | to do  | to do | to do    |
 | to do | to do   | to do  | to do | to do    |
 | to do | to do   | to do  | to do | to do    |
