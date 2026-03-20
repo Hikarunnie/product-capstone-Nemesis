@@ -130,30 +130,36 @@ This makes it hard for small creators to grow, showcase their art, earn stable i
 #### H1 -- Hairband
 
 **Problem:**
+University students miss or delay starting assignments because notifications about newly uploaded tasks are not always visible or consistent across platforms, causing them to discover assignments late.
 
 **Where this observation comes from:**
-
-**Rough severity estimate:**
+I have experienced situations where assignments were uploaded but I did not receive a clear notification, so I only noticed them later than expected. This has also happened to other students I know, who found out about tasks through classmates instead of official platforms.
+**Rough severity estimate:** (medium)
+This does not always lead to failure, but it creates stress and reduces the time available to complete assignments properly.
 
 ---
 
 #### H2 -- Headache
 
 **Problem:**
+Students struggle to remember studied material over time, especially when learning multiple subjects, leading to repeated relearning before exams.
 
 **Where this observation comes from:**
-
-**Rough severity estimate:**
+I experience this personally when preparing for exams. Even after understanding topics during lectures or study sessions, I tend to forget details later and need to relearn them. This happens frequently across different subjects.
+**Rough severity estimate:** (medium)
+This increases study time and makes exam preparation more difficult.
 
 ---
 
 #### H3 -- Heartburn
 
 **Problem:**
+Students spend time studying topics and completing tasks that are not included in exams, which leads to frustration and inefficient use of limited study time.
 
 **Where this observation comes from:**
-
+I have studied certain topics and completed assignments that were later not included in exams. This made me feel like the time spent on those topics could have been used more effectively. I have also heard similar complaints from other students.
 **Rough severity estimate:** High
+This directly affects time management and creates frustration, especially during exam periods.
 
 ---
 
