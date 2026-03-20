@@ -6,31 +6,40 @@
 
 #### H1 -- Hairband
 
-**Problem:**
+**Problem:** <br>
+Students struggle to wake up on time using basic phone alarms, which leads to missed classes, rushed mornings, and disrupted daily routines because alarms are easy to snooze, ignore, or turn off half-asleep.
 
-**Where this observation comes from:**
+**Where this observation comes from:** <br>
+This happens to me a lot. I set multiple alarms, but I either snooze them without realizing or turn them off and fall back asleep. Sometimes I don’t even remember doing it. I’ve also seen friends miss early lectures for the same reason, even when they were actually motivated to go the night before. It feels like phone alarms just aren’t strong enough to match real sleep habits.
 
-**Rough severity estimate:**
+**Rough severity estimate: Medium** <br>
+It affects daily routines and consistency, and over time it can impact academic performance and overall productivity.
 
 ---
 
 #### H2 -- Headache
 
-**Problem:**
+**Problem:**  
+Students have difficulty staying focused while studying because of constant digital distractions (notifications, social media, messaging apps), which breaks concentration and makes simple tasks take much longer.
 
-**Where this observation comes from:**
+**Where this observation comes from:** <br>
+I’ve experienced this while studying — even when I try to focus, notifications or the urge to check my phone interrupt me. What should take one hour turns into three. I’ve also noticed classmates constantly switching between studying and scrolling, which makes it harder to actually retain information or finish tasks efficiently.
 
-**Rough severity estimate:**
+**Rough severity estimate: High** <br>
+This directly impacts productivity, learning efficiency, and time management, often leading to stress and unfinished work.
 
 ---
 
 #### H3 -- Heartburn
 
-**Problem:**
+**Problem:** <br>
+Students living away from home struggle to maintain healthy eating habits because of limited time, budget constraints, and lack of easy access to balanced, affordable meals.
 
-**Where this observation comes from:**
+**Where this observation comes from:** <br>
+I’ve seen this both in myself and others. During busy weeks, it’s common to skip meals, eat instant food, or rely on fast food because it’s quick and cheap. Cooking regularly feels like too much effort when you have assignments and deadlines. Friends often complain about low energy or feeling unhealthy but don’t have a convenient alternative.
 
-**Rough severity estimate:**
+**Rough severity estimate: High** <br>
+This affects physical health, energy levels, and long-term well-being, which also indirectly impacts academic performance.
 
 ---
 
@@ -46,6 +55,7 @@ I experience this myself while studying coding. Recently, I spent around an hour
 
 **Rough severity estimate:**
 The problem does not stop learning completely, but it wastes a lot of time and creates frustration over small issues.
+
 ---
 
 #### H2 -- Headache
@@ -151,9 +161,9 @@ This makes it hard for small creators to grow, showcase their art, earn stable i
 
 | #     | Problem | Member | H     | Severity |
 | ----- | ------- | ------ | ----- | -------- |
-| to do | to do   | to do  | to do | to do    |
-| to do | to do   | to do  | to do | to do    |
-| to do | to do   | to do  | to do | to do    |
+| 1 | Students struggle to wake up on time due to ineffective phone alarms that are easy to ignore or snooze  | Ketevan Shavadze  | H1 | Medium    |
+| 2 | Students lose focus while studying because of constant digital distractions like notifications and social media   | Ketevan Shavadze  | H2 | High    |
+| 3 | Students living away from home struggle to maintain healthy eating habits due to time and budget constraints   | Ketevan Shavadze  | H3 | High    |
 | to do | to do   | to do  | to do | to do    |
 | to do | to do   | to do  | to do | to do    |
 | to do | to do   | to do  | to do | to do    |
