@@ -53,7 +53,7 @@ Students learning programming spend 30–60 minutes stuck on very small errors (
 **Where this observation comes from:**
 I experience this myself while studying coding. Recently, I spent around an hour trying to fix a single syntax error because I could not find where the mistake was. Situations like this happen often and slow down my progress significantly.
 
-**Rough severity estimate:**
+**Rough severity estimate:Medium**<br>
 The problem does not stop learning completely, but it wastes a lot of time and creates frustration over small issues.
 
 ---
@@ -63,10 +63,10 @@ The problem does not stop learning completely, but it wastes a lot of time and c
 **Problem:**
 Students learning programming struggle to start solving tasks because they do not understand how to approach the problem, even if they know the basic concepts.
 
-**Where this observation comes from:**
+**Where this observation comes from: High**
 I experience this during coding assignments where I understand the topic in theory, but when I see the task, I don’t know how to begin. This leads to spending a long time just thinking about where to start instead of actually solving the problem.
 
-**Rough severity estimate:**
+**Rough severity estimate: High**<br>
 This slows down progress and reduces confidence, especially when tasks take longer than expected to begin.
 
 ---
@@ -79,7 +79,7 @@ Students trying to stay consistent with studying lose motivation when they do no
 **Where this observation comes from:**
 I experience this personally. When I do not understand something quickly, I lose motivation and find it difficult to continue studying, especially when I already feel low on time and energy.
 
-**Rough severity estimate:**
+**Rough severity estimate: High**<br>
 This affects long-term consistency and makes it harder to build strong study habits.
 
 ---
@@ -134,7 +134,7 @@ University students miss or delay starting assignments because notifications abo
 
 **Where this observation comes from:**
 I have experienced situations where assignments were uploaded but I did not receive a clear notification, so I only noticed them later than expected. This has also happened to other students I know, who found out about tasks through classmates instead of official platforms.
-**Rough severity estimate:** (medium)
+**Rough severity estimate:Medium** <br>
 This does not always lead to failure, but it creates stress and reduces the time available to complete assignments properly.
 
 ---
@@ -146,7 +146,7 @@ Students struggle to remember studied material over time, especially when learni
 
 **Where this observation comes from:**
 I experience this personally when preparing for exams. Even after understanding topics during lectures or study sessions, I tend to forget details later and need to relearn them. This happens frequently across different subjects.
-**Rough severity estimate:** (medium)
+**Rough severity estimate: Medium** <br>
 This increases study time and makes exam preparation more difficult.
 
 ---
@@ -158,27 +158,30 @@ Students spend time studying topics and completing tasks that are not included i
 
 **Where this observation comes from:**
 I have studied certain topics and completed assignments that were later not included in exams. This made me feel like the time spent on those topics could have been used more effectively. I have also heard similar complaints from other students.
-**Rough severity estimate:** High
+**Rough severity estimate:High** <br>
 This directly affects time management and creates frustration, especially during exam periods.
 
 ---
 
-## Team Signal -- Problem Pool Summary
+## Team Nemesis -- Problem Pool Summary
 
-| #     | Problem | Member | H     | Severity |
-| ----- | ------- | ------ | ----- | -------- |
-| 1 | Students struggle to wake up on time due to ineffective phone alarms that are easy to ignore or snooze  | Ketevan Shavadze  | H1 | Medium    |
-| 2 | Students lose focus while studying because of constant digital distractions like notifications and social media   | Ketevan Shavadze  | H2 | High    |
-| 3 | Students living away from home struggle to maintain healthy eating habits due to time and budget constraints   | Ketevan Shavadze  | H3 | High    |
-| 4 | Students struggle to maintain a consistent sleep schedule because of low motivation and confusion about how to manage their time   | Tamar Vatcharadze  | H4 | medium    |
-| to do | to do   | to do  | to do | to do    |
-| to do | to do   | to do  | to do | to do    |
-| to do | to do   | to do  | to do | to do    |
-| to do | to do   | to do  | to do | to do    |
-| to do | to do   | to do  | to do | to do    |
+| #   | Problem                                                                                                         | Member            | H         | Severity |
+| --- | --------------------------------------------------------------------------------------------------------------- | ----------------- | --------- | -------- |
+| 1   | Students struggle to wake up on time due to ineffective phone alarms that are easy to ignore or snooze          | Ketevan Shavadze  | Hairband  | Medium   |
+| 2   | Students lose focus while studying because of constant digital distractions like notifications and social media | Ketevan Shavadze  | Headache  | High     |
+| 3   | Students living away from home struggle to maintain healthy eating habits due to time and budget constraints    | Ketevan Shavadze  | Heartburn | High     |
+| 4   | Students miss assignments due to unclear or inconsistent notifications                                          | Tamar Vatcharadze | Hairband  | Medium   |
+| 5   | Students forget studied material and need to relearn it before exams                                            | Tamar Vatcharadze | Headache  | Medium   |
+| 6   | Students waste time studying topics not included in exams                                                       | Tamar Vatcharadze | Heartburn | High     |
+| 7   | Students miss opportunities because information is scattered across multiple platforms                          | Ani Kharabadze    | Hairband  | Medium   |
+| 8   | Students avoid asking questions due to fear of judgment, slowing their learning                                 | Ani Kharabadze    | Headache  | High     |
+| 9   | Small creative business owners struggle to sell and manage products without a structured platform               | Ani Kharabadze    | Heartburn | High     |
+| 10  | Programming students waste time debugging small syntax errors they cannot easily identify                       | Gvantsa Nozadze   | Hairband  | Medium   |
+| 11  | Programming students struggle to start solving tasks because they don’t know how to approach problems           | Gvantsa Nozadze   | Headache  | High     |
+| 12  | Students lose motivation to study when they don’t understand material quickly                                   | Gvantsa Nozadze   | Heartburn | High     |
 
-**Total: **  
-**Domains: **
+**Total:12**  
+**Domains: Education, Productivity, Health, Programming Learning, Career Development, Small Business**
 
 ---
 
