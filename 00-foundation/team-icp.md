@@ -9,16 +9,19 @@
 ### 1. Segment
 
 Computer Science students at Kutaisi International University who are learning programming and regularly work on coding assignments outside of class. They are still beginners and do not have strong debugging skills, even though they understand basic concepts.
+
 ---
 
 ### 2. Context
 
 The problem occurs during coding assignments or practice sessions, usually outside class hours (evenings or before deadlines). The student is working alone on their laptop and encounters a small error (such as syntax or logic mistake) that prevents progress.
+
 ---
 
 ### 3. Primary Pain
 
 The student cannot identify what is wrong in their code, even when the mistake is simple. They repeatedly check their code but fail to find the issue. This leads to spending 30–60 minutes on a very small error, causing frustration and slowing down progress significantly.
+
 ---
 
 ### 4. Current Workaround
@@ -31,16 +34,19 @@ asking friends or classmates
 randomly changing parts of the code
 
 These methods are inconsistent and often time-consuming.
+
 ---
 
 ### 5. Job to Be Done
 
 "When I get stuck on a coding error, I want to quickly understand what is wrong and how to fix it, so I can continue working without wasting a lot of time."
+
 ---
 
 ### 6. Success Signal
 
 The student is able to identify and fix errors within a few minutes instead of spending long periods stuck. They continue working without frustration and complete assignments more efficiently.
+
 ---
 
 ### 7. Where to Find Them
@@ -51,11 +57,13 @@ WhatsApp groups of CS students
 friends who are currently learning coding
 
 We can identify multiple students who match this profile and contact them directly.
+
 ---
 
 ### 8. Why You, Why Now
 
 I am part of this group and experience this problem myself regularly. This makes it easy to understand the situation and communicate with others who have the same issue. I can easily find and interview people with this problem this week.
+
 ---
 
 ### Evidence Basis
