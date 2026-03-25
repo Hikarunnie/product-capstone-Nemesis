@@ -125,95 +125,97 @@
 
 ---
 
-### Problem 4: to do
+### Problem 4: Students struggle to coordinate group projects efficiently due to poor communication and unclear task distribution
 
 **Real and Recurring**
 
-- Score: to do
-- Justification: to do
+- Score: 3/3
+- Justification: All team members have experienced confusion and miscommunication during group projects in multiple courses. Issues such as unclear responsibilities, missed messages, and duplicated work happen repeatedly throughout the semester. We can name several classmates who complain about group work inefficiency almost every time a project is assigned.
 
 **Painful Enough to Act**
 
-- Score: to do
-- Known workaround: to do
-- Justification: to do
+- Score: 3/3
+- Known workaround: Students create group chats (Messenger, WhatsApp), use Google Docs, and manually assign tasks through messages. They repeatedly check updates, clarify responsibilities, and remind each other about deadlines. This coordination can take significant time and often leads to frustration.
+- Justification: The workaround is active, repetitive, and inefficient. Students invest time and energy just to stay organized, indicating high pain.
 
 **Underserved Today**
 
-- Score: to do
-- Existing solutions: to do
-- Justification: to do
+- Score: 2/3
+- Existing solutions: Tools like Trello, Notion, and Google Docs exist, but students rarely use them effectively or consistently. Most teams default to simple messaging apps, which are not designed for structured collaboration.
+- Justification: While tools exist, they are not well integrated into student workflows or are perceived as too complex for quick use.
 
 **Accessible to You**
 
-- Score: to do
-- Who could you interview this week: to do
-- Justification: to do
+- Score: 3/3
+- Who could you interview this week: Classmates currently working on group assignments, project teammates, and students from other courses. Easily reachable through university groups and chats.
+- Justification: Direct access to target users with ongoing experiences.
 
-**Total: to do**  
-**Recommendation: to do**
+**Total: 11/12**
+**Recommendation: Strong candidate. Worth pursuing, especially with a focus on simplicity and student-friendly collaboration.**
 
 ---
 
-### Problem 5: to do
+### Problem 5: Students have difficulty finding reliable internship or job opportunities relevant to their field
 
 **Real and Recurring**
 
-- Score: to do
-- Justification: to do
+- Score: 3/3
+- Justification: Many students actively look for internships or entry-level jobs but struggle to find relevant and trustworthy opportunities. This issue appears repeatedly each semester, especially for second- and third-year students. We can name multiple peers who are currently searching and facing the same difficulty.
 
 **Painful Enough to Act**
 
-- Score: to do
-- Known workaround: to do
-- Justification: to do
+- Score: 3/3
+- Known workaround: Students search across multiple platforms (LinkedIn, job boards, Facebook groups), ask friends, and rely on referrals. This process is time-consuming and often leads to irrelevant or low-quality results.
+- Justification: The effort is high and continuous, with no guarantee of success. Students invest hours browsing and applying, showing strong motivation to solve the problem.
 
 **Underserved Today**
 
-- Score: to do
-- Existing solutions: to do
-- Justification: to do
+- Score: 2/3
+- Existing solutions: Platforms like LinkedIn and local job boards exist, but they are often too broad, not tailored to students, or lack entry-level filtering. Many listings require experience, making them less useful for beginners.
+- Justification: Solutions exist but are not optimized for student needs, especially for early-career opportunities.
+
+> **Annotation:** Gap exists in relevance and accessibility for students.
 
 **Accessible to You**
 
-- Score: to do
-- Who could you interview this week: to do
-- Justification: to do
+- Score: 3/3
+- Who could you interview this week: Students currently searching for internships, recent graduates, and peers in computer science or other fields. Easily reachable through university and social networks.
+- Justification: High accessibility and strong relevance.
 
-**Total: to do**  
-**Recommendation: to do**
-
----
+**Total: 11/12**
+**Recommendation: Strong candidate. Particularly valuable if focused on student-specific opportunities and filtering.**
 
 ---
 
-### Problem 6: to do
+### Problem 6: Students experience burnout and lack of motivation due to academic pressure and poor time balance
 
 **Real and Recurring**
 
-- Score: to do
-- Justification: to do
+- Score: 3/3
+- Justification: Many students regularly feel overwhelmed, especially during midterms, finals, and project deadlines. This is a continuous issue across semesters. Team members and classmates frequently mention stress, fatigue, and lack of motivation.
+
+> **Annotation:** Highly common and persistent across student life.
 
 **Painful Enough to Act**
 
-- Score: to do
-- Known workaround: to do
-- Justification: to do
+- Score: 2/3
+- Known workaround: Students take breaks, procrastinate, watch content, or try basic time management techniques. Some attempt productivity methods, but consistency is low.
+- Justification: While the problem is serious, many students do not actively implement structured solutions and instead cope passively.
 
 **Underserved Today**
 
-- Score: to do
-- Existing solutions: to do
-- Justification: to do
+- Score: 2/3
+- Existing solutions: Productivity apps, mental health resources, and time management tools exist. However, they are often generic and not tailored to student-specific academic pressure.
+- Justification: Tools exist but fail to fully address the emotional + academic combination of the problem.
 
 **Accessible to You**
 
-- Score: to do
-- Who could you interview this week: to do
-- Justification: to do
+- Score: 3/3
+- Who could you interview this week: Classmates experiencing stress, students during exam periods, and friends balancing multiple responsibilities.
+- Justification: Extremely accessible and relatable.
 
-**Total: to do**  
-**Recommendation: to do**
+**Total: 10/12**
+**Recommendation: Good candidate. Consider narrowing to a specific aspect (e.g., academic burnout during exams or productivity struggles) for a stronger solution focus.**
 
 ---
 
