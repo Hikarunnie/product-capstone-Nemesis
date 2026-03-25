@@ -64,7 +64,6 @@
 - Score: 3/3
 - Justification: Digital distractions are a constant part of student life, with notifications and social media interrupting study sessions regularly.
 
-> **Annotation:** Very common and frequent issue.
 
 **Painful Enough to Act**
 
