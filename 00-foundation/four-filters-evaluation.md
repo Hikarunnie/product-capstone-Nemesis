@@ -185,11 +185,7 @@
 
 ---
 
-<<<<<<< HEAD
 ### Problem 6: Students experience burnout and lack of motivation due to academic pressure and poor time balance
-=======
-### Problem 6: to do
->>>>>>> 2f1232f (problems 7-8-9 evaluated)
 
 **Real and Recurring**
 
@@ -215,7 +211,7 @@
 - Justification: Extremely accessible and relatable.
 
 **Total: 10/12**
-**Recommendation: Good candidate. Consider narrowing to a specific aspect (e.g., academic burnout during exams or productivity struggles) for a stronger solution focus.**
+**Recommendation: Good candidate.**
 
 ---
 
@@ -403,9 +399,9 @@
 | 1 — Wake-up alarms              | to do | to do | to do       | to do      | to do | to do          |
 | 2 — Study distractions          | to do | to do | to do       | to do      | to do | to do          |
 | 3 — Healthy eating              | to do | to do | to do       | to do      | to do | to do          |
-| 4 — Missed assignments          | to do | to do | to do       | to do      | to do | to do          |
-| 5 — Forgetting material         | to do | to do | to do       | to do      | to do | to do          |
-| 6 — Studying wrong topics       | to do | to do | to do       | to do      | to do | to do          |
+| 4 — Missed assignments          | 3 | 3 | 2       | 3      | 11/12 | Strong candidate          |
+| 5 — Forgetting material         | 3 | 3 | 2       | 3      | 11/12 | Good candidate          |
+| 6 — Studying wrong topics       | 3 | 2 | 2       | 3      | 10/12 | Good candidate          |
 | 7 — Scattered opportunities     | 3     | 2     | 2           | 3          | 10/12 | Strong candidate |
 | 8 — Fear of asking questions    | 3     | 2     | 2           | 3          | 10/12 | Strong candidate |
 | 9 — Small business selling      | 2.5   | 3     | 3           | 2.5        | 11/12 | Strong candidate |
