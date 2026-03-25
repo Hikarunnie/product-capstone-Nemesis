@@ -311,89 +311,87 @@
 
 **Real and Recurring**
 
-- Score: to do
-- Justification: to do
+- Score: 3/3
+- Justification: I experience this problem frequently while coding. Small errors like syntax mistakes happen in almost every assignment or lab. I can also name multiple classmates who face the same issue regularly.
 
 **Painful Enough to Act**
 
-- Score: to do
-- Known workaround: to do
-- Justification: to do
+- Score: 3/3
+- Known workaround: Re-reading code multiple times, searching online, asking friends, or randomly testing changes. This can take 30–60 minutes for a very small mistake.
+- Justification: The amount of time wasted and frustration shows that this problem is painful enough to actively try to solve.
 
 **Underserved Today**
 
-- Score: to do
-- Existing solutions: to do
-- Justification: to do
+- Score: 2/3
+- Existing solutions: Google, Stack Overflow, AI tools, and IDE error messages.
+- Justification: While tools exist, beginners often struggle to understand them or apply them correctly, so the problem is not fully solved.
 
 **Accessible to You**
 
-- Score: to do
-- Who could you interview this week: to do
-- Justification: to do
+- Score: 3/3
+- Who could you interview this week: Programming students from my class and friends who are also learning coding.
+- Justification: I am part of the target group and can easily reach people with the same problem.
 
-**Total: to do**  
-**Recommendation: to do**
+**Total: 11/12**  
+**Recommendation: Strong candidate**
 
----
 
-### Problem 11: to do
+### Problem 11: Students not knowing how to start programming tasks
 
 **Real and Recurring**
 
-- Score: to do
-- Justification: to do
+- Score: 3/3
+- Justification: This happens often when starting new assignments. Even when concepts are understood, the first step is unclear. Many students experience this regularly.
 
 **Painful Enough to Act**
 
-- Score: to do
-- Known workaround: to do
-- Justification: to do
+- Score: 2/3
+- Known workaround: Looking at examples, searching online, asking others, or delaying the task.
+- Justification: The problem causes delays and confusion, but it is sometimes eventually solved.
 
 **Underserved Today**
 
-- Score: to do
-- Existing solutions: to do
-- Justification: to do
+- Score: 2/3
+- Existing solutions: Tutorials, examples, and documentation.
+- Justification: These resources exist but are often too general and not specific to the student’s exact problem.
 
 **Accessible to You**
 
-- Score: to do
-- Who could you interview this week: to do
-- Justification: to do
+- Score: 3/3
+- Who could you interview this week: Students in programming courses who regularly receive coding assignments.
+- Justification: Easy access to people experiencing this issue.
+**Total: 10/12**  
+**Recommendation: Strong candidate but slightly weaker**
 
-**Total: to do**  
-**Recommendation: to do**
 
----
-
-### Problem 12: to do
+### Problem 12: Students losing motivation when they do not understand material quickly
 
 **Real and Recurring**
 
-- Score: to do
-- Justification: to do
+- Score: 2/3
+- Justification: This problem exists but depends on the person and situation. It does not happen consistently for everyone.
 
 **Painful Enough to Act**
 
-- Score: to do
-- Known workaround: to do
-- Justification: to do
+- Score: 2/3
+- Known workaround: Taking breaks, forcing themselves to continue, or trying different study methods.
+- Justification: The problem affects consistency, but people respond differently and sometimes recover motivation.
 
 **Underserved Today**
 
-- Score: to do
-- Existing solutions: to do
-- Justification: to do
+- Score: 1/3
+- Existing solutions: Many productivity apps, study techniques, and motivational content already exist.
+- Justification: This is a very crowded area with many existing solutions.
 
 **Accessible to You**
 
-- Score: to do
-- Who could you interview this week: to do
-- Justification: to do
+- Score: 3/3
+- Who could you interview this week: Students who struggle with studying consistency.
+- Justification: Easy to find people with this issue.
 
-**Total: to do**  
-**Recommendation: to do**
+**Total: 8/12**  
+**Recommendation: Possible but not strong**
+
 
 ---
 
