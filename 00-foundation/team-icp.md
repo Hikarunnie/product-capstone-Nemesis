@@ -16,7 +16,7 @@ Most of them are students or young adults trying to turn their creative hobby in
 
 ### 2. Context
 
-The problem occurs during daily selling activities on Instagram — when posting products, responding to customer messages, setting prices, and managing orders.
+The problem occurs during daily selling activities on Instagram - when posting products, responding to customer messages, setting prices, and managing orders.
 
 This usually happens in the evening or throughout the day when they receive DMs from potential buyers asking about price, availability, or delivery.
 
@@ -26,7 +26,7 @@ This usually happens in the evening or throughout the day when they receive DMs 
 
 The seller struggles to run their business efficiently because everything is unstructured. They do not know how to price their products properly, often underpricing or overthinking prices. Customers frequently hesitate to buy because Instagram pages without many followers seem less trustworthy.
 
-Managing orders through DMs is chaotic — messages get lost, repeated questions take time, and tracking orders is difficult. As a result, the seller loses potential sales and feels stuck in growing their business.
+Managing orders through DMs is chaotic: messages get lost, repeated questions take time, and tracking orders is difficult. As a result, the seller loses potential sales and feels stuck in growing their business.
 
 ---
 
@@ -42,7 +42,7 @@ For delivery, they arrange everything manually with customers, often repeating t
 
 ### 5. Job to Be Done
 
-"When I sell my handmade products, I want an easy and trusted way to organize my products, set fair prices, and manage orders, so I can grow my business and sell consistently without feeling confused or overwhelmed."
+"When I sell my handmade products, I want an easy and trusted way to organize my products, set fair prices, and manage orders, so I can grow my business and sell consistently without feeling confused or overwhelmed. Also people to be sure that I am real seller and they can trust me."
 
 ---
 
@@ -96,55 +96,71 @@ This makes it possible to conduct interviews quickly and get honest responses, s
 
 ---
 
-## Secondary ICP: Code Feedback Gap Problem
+## Secondary ICP: Students Missing Assignment Notifications
 
 ### 1. Segment
 
-First-year and second-year Computer Science students at KIU who are working on individual programming assignments and regularly encounter blocking errors — errors that prevent them from making progress on the rest of the assignment until resolved. They are working outside of scheduled class hours, typically in the evenings or on weekends, and do not have real-time access to teaching staff.
+University students who are enrolled in multiple courses and rely on different platforms (LMS) to track assignments and academic updates.
+
+They are generally active students who want to keep up with their coursework but do not have a centralized system to track deadlines and depend on notifications to stay updated.
 
 ---
 
 ### 2. Context
 
-The problem occurs during self-study sessions outside class hours when the student encounters a blocking error in their code that they cannot resolve independently within 30-60 minutes. The assignment deadline is typically within 2-5 days. The student has already attempted to debug the error themselves and has run out of approaches to try.
+The problem occurs when new assignments or tasks are uploaded by professors on platforms such as LMS or shared through different communication channels.
+
+Students are not always actively checking every platform, so they depend on notifications to be aware of updates. When notifications are missed, delayed, or unclear, students only discover assignments later — often through other students or by accidentally checking the platform.
 
 ---
 
 ### 3. Primary Pain
 
-The student cannot get a reliable, relevant answer to their specific code problem within a timeframe that allows them to continue working on the assignment that day. The course forum is monitored during business hours only, with typical response times of 4-7 days. Stack Overflow and similar resources produce generic answers that do not apply to the specific course setup or codebase. Classmates are often equally stuck. The student loses 1-3 hours per blocking error and sometimes abandons the session entirely.
+The student misses or delays starting assignments because they are not aware of them at the right time. This reduces the time available to complete the work and creates unnecessary stress.
+
+Instead of planning their work properly, they are forced into last-minute situations, which affects both the quality of their work and their overall academic experience.
 
 ---
 
 ### 4. Current Workaround
 
-The student posts the question on the course forum and waits. While waiting, they either attempt to work around the blocked section (which sometimes creates downstream problems) or search Stack Overflow and Google for relevant answers (which rarely resolve course-specific issues). In some cases they message classmates directly on WhatsApp, but classmates are often unable to help.
+
+Students try to manage this by checking platforms manually (LMS) multiple times a day, asking classmates in group chats, or relying on friends to notify them about new tasks.
+
+Some students create personal reminders or notes, but these systems are inconsistent and require extra effort to maintain.
 
 ---
 
 ### 5. Job to Be Done
 
-"When I hit a blocking error on an assignment, I want to get a relevant, understandable explanation within the same study session, so I can keep making progress instead of losing the evening to one problem."
+"When a new assignment is uploaded, I want to be clearly and immediately notified in one place, so I can start on time and avoid last-minute stress."
 
 ---
 
 ### 6. Success Signal
 
-The student gets unblocked within the same study session. They do not lose the entire evening to a single error. They submit an assignment they are satisfied with because they were not forced to submit a broken section they could not debug.
+The student is aware of assignments as soon as they are posted and can plan their work in advance. They no longer rely on classmates for updates and do not experience last-minute panic due to missed information.
+
+They feel more in control of their schedule and complete tasks with enough time.
 
 ---
 
 ### 7. Where to Find Them
 
-- First and second-year CS students we know personally through our own programme
-- The KIU CS first-year WhatsApp group (we have access through friends)
-- Students visible in the CS computer lab during evening hours
+- University students in different years and programs
+- Course group chats (WhatsApp, Messenger, Instagram DMs etc.)
+- Classmates and friends who have experienced missing assignments
+- Students active in university-related online groups
+
+At least 5–10 interviewees can be identified easily through personal networks and class groups.
 
 ---
 
 ### 8. Why You, Why Now
 
-Two team members experienced first-year CS. One is currently in second year. We have personal networks in these cohorts and can schedule interviews immediately.
+I personally experience this problem and have seen multiple classmates face the same issue. This gives me direct access to the target users and allows me to quickly find interviewees.
+
+Because I am part of the same environment, I understand how students currently track assignments and where the system fails.
 
 ---
 
@@ -152,12 +168,12 @@ Two team members experienced first-year CS. One is currently in second year. We 
 
 | Dimension | Confidence | Basis |
 |-----------|-----------|-------|
-| Segment | Medium | Observed — one team member recalls this from first year |
-| Context | Medium | Observed / assumed |
-| Primary Pain | Medium | Inferred — needs interview validation |
-| Workaround | Medium | Observed — we know people who post on the forum and wait |
-| JTBD | Low | Assumed — needs interview validation |
-| Success Signal | Low | Assumed |
+| Segment | Medium | Observed — applies to many students I know |
+| Context | Medium | Observed - happens during assignment uploads |
+| Primary Pain | Medium | Observed but needs validation across more students |
+| Workaround | Medium | Observed — checking manually and asking others |
+| JTBD | Low |Inferred from experience |
+| Success Signal | Low | Assumed — needs interview validation |
 
 ---
 
@@ -165,4 +181,4 @@ Two team members experienced first-year CS. One is currently in second year. We 
 
 | Version | Date | What changed | Interview evidence |
 |---------|------|--------------|-------------------|
-| v1.0 | 19 March 2026 | Initial hypothesis | Pre-interview |
+| v1.0 | 25 March 2026 | Initial hypothesis | Pre-interview |
