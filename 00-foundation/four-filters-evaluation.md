@@ -394,12 +394,8 @@
 **Total: 8/12**  
 **Recommendation: Possible but not strong**
 
-
 ---
 
-## Summary Scorecard
-
-<<<<<<< HEAD
 ## Summary Scorecard
 
 | Problem                         | R&R   | P2A   | Underserved | Accessible | Total | Recommendation |
@@ -410,28 +406,12 @@
 | 4 — Missed assignments          | to do | to do | to do       | to do      | to do | to do          |
 | 5 — Forgetting material         | to do | to do | to do       | to do      | to do | to do          |
 | 6 — Studying wrong topics       | to do | to do | to do       | to do      | to do | to do          |
-| 7 — Scattered opportunities     | to do | to do | to do       | to do      | to do | to do          |
-| 8 — Fear of asking questions    | to do | to do | to do       | to do      | to do | to do          |
-| 9 — Small business selling      | to do | to do | to do       | to do      | to do | to do          |
-| 10 — Debugging errors           | 3 | 3 | 2       | 3      | 11/12 | Strong candidate          |
-| 11 — Starting programming tasks | 3 | 2 | 2       | 3      | 10/12 | Strong candidate          |
-| 12 — Loss of motivation         | 2 | 2 | 1       | 3      | 8/12 | Possible but weak          |
-=======
-| Problem                         | R&R   | P2A   | Underserved | Accessible | Total | Recommendation   |
-| ------------------------------- | ----- | ----- | ----------- | ---------- | ----- | ---------------- |
-| 1 — Wake-up alarms              | to do | to do | to do       | to do      | to do | to do            |
-| 2 — Study distractions          | to do | to do | to do       | to do      | to do | to do            |
-| 3 — Healthy eating              | to do | to do | to do       | to do      | to do | to do            |
-| 4 — Missed assignments          | to do | to do | to do       | to do      | to do | to do            |
-| 5 — Forgetting material         | to do | to do | to do       | to do      | to do | to do            |
-| 6 — Studying wrong topics       | to do | to do | to do       | to do      | to do | to do            |
 | 7 — Scattered opportunities     | 3     | 2     | 2           | 3          | 10/12 | Strong candidate |
 | 8 — Fear of asking questions    | 3     | 2     | 2           | 3          | 10/12 | Strong candidate |
 | 9 — Small business selling      | 2.5   | 3     | 3           | 2.5        | 11/12 | Strong candidate |
-| 10 — Debugging errors           | to do | to do | to do       | to do      | to do | to do            |
-| 11 — Starting programming tasks | to do | to do | to do       | to do      | to do | to do            |
-| 12 — Loss of motivation         | to do | to do | to do       | to do      | to do | to do            |
->>>>>>> 2f1232f (problems 7-8-9 evaluated)
+| 10 — Debugging errors           | 3 | 3 | 2       | 3      | 11/12 | Strong candidate          |
+| 11 — Starting programming tasks | 3 | 2 | 2       | 3      | 10/12 | Strong candidate          |
+| 12 — Loss of motivation         | 2 | 2 | 1       | 3      | 8/12 | Possible but weak          |
 
 ---
 
