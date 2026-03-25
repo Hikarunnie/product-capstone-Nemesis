@@ -410,9 +410,9 @@
 | 7 — Scattered opportunities     | to do | to do | to do       | to do      | to do | to do          |
 | 8 — Fear of asking questions    | to do | to do | to do       | to do      | to do | to do          |
 | 9 — Small business selling      | to do | to do | to do       | to do      | to do | to do          |
-| 10 — Debugging errors           | to do | to do | to do       | to do      | to do | to do          |
-| 11 — Starting programming tasks | to do | to do | to do       | to do      | to do | to do          |
-| 12 — Loss of motivation         | to do | to do | to do       | to do      | to do | to do          |
+| 10 — Debugging errors           | 3 | 3 | 2       | 3      | 11/12 | Strong candidate          |
+| 11 — Starting programming tasks | 3 | 2 | 2       | 3      | 10/12 | Strong candidate          |
+| 12 — Loss of motivation         | 2 | 2 | 1       | 3      | 8/12 | Possible but weak          |
 
 ---
 
