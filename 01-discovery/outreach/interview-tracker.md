@@ -29,13 +29,6 @@ Your ICP in one sentence: Artsy individuals in Georgia who sell or want to sell 
 | 8   |                                  |                  |                 |                |                |        |                |       |
 | 9   |                                  |                  |                 |                |                |        |                |       |
 | 10  |                                  |                  |                 |                |                |        |                |       |
-| 11  |                                  |                  |                 |                |                |        |                |       |
-| 12  |                                  |                  |                 |                |                |        |                |       |
-| 13  |                                  |                  |                 |                |                |        |                |       |
-| 14  |                                  |                  |                 |                |                |        |                |       |
-| 15  |                                  |                  |                 |                |                |        |                |       |
-
-Add more rows as needed. Always schedule more interviews than you need — cancellations are normal.
 
 ---
 
