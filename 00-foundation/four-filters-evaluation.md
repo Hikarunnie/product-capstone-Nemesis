@@ -1,4 +1,4 @@
-# Example: Four Filters Evaluation
+# Four Filters Evaluation
 
 **Team Name:** Team Nemesis
 **Date:** 25 March 2026
@@ -27,285 +27,277 @@
 
 ## Evaluations
 
-### Problem 1: to do
-
-**Real and Recurring**
-
-- Score: to do
-- Justification: to do
-
-> **Annotation:** to do
-
-**Painful Enough to Act**
-
-- Score: to do
-- Known workaround: to do
-- Justification: to do
-
-> **Annotation:** to do
-
-**Underserved Today**
-
-- Score: to do
-- Existing solutions: to do
-- Justification: to do
-
-> **Annotation:** to do
-
-**Accessible to You**
-
-- Score: to do
-- Who could you interview this week: to do
-- Justification: to do
-
-**Total: to do**  
-**Recommendation: to do**
-
----
-
-### Problem 2: to do
-
-**Real and Recurring**
-
-- Score: to do
-- Justification: to do
-
-> **Annotation:** to do
-
-**Painful Enough to Act**
-
-- Score: to do
-- Known workaround: to do
-- Justification: to do
-
-**Underserved Today**
-
-- Score: to do
-- Existing solutions: to do
-- Justification: to do
-
-**Accessible to You**
-
-- Score: to do
-- Who could you interview this week: to do
-- Justification: to do
-
-**Total: to do**  
-**Recommendation: to do**
-
----
-
-### Problem 3: to do
-
-**Real and Recurring**
-
-- Score: to do
-- Justification: to do
-
-**Painful Enough to Act**
-
-- Score: to do
-- Known workaround: to do
-- Justification: to do
-
-**Underserved Today**
-
-- Score: to do
-- Existing solutions: to do
-- Justification: to do
-
-**Accessible to You**
-
-- Score: to do
-- Who could you interview this week: to do
-- Justification: to do
-
-**Total: to do**  
-**Recommendation: to do**
-
----
-
-### Problem 4: Students struggle to coordinate group projects efficiently due to poor communication and unclear task distribution
+### Problem 1: Wake-up alarms
 
 **Real and Recurring**
 
 - Score: 3/3
-- Justification: All team members have experienced confusion and miscommunication during group projects in multiple courses. Issues such as unclear responsibilities, missed messages, and duplicated work happen repeatedly throughout the semester. We can name several classmates who complain about group work inefficiency almost every time a project is assigned.
+- Justification: Almost every student relies on phone alarms daily, and many repeatedly snooze or ignore them, especially during early classes or after late-night studying. This creates a consistent pattern of missed or rushed mornings.
 
 **Painful Enough to Act**
 
-- Score: 3/3
-- Known workaround: Students create group chats (Messenger, WhatsApp), use Google Docs, and manually assign tasks through messages. They repeatedly check updates, clarify responsibilities, and remind each other about deadlines. This coordination can take significant time and often leads to frustration.
-- Justification: The workaround is active, repetitive, and inefficient. Students invest time and energy just to stay organized, indicating high pain.
+- Score: 2/3
+- Known workaround: Setting multiple alarms, placing phone far away, asking friends to wake them up
+- Justification: Students actively try to fix this (multiple alarms, loud tones, apps), but these solutions are often inconsistent and easy to bypass when half-asleep.
+
 
 **Underserved Today**
 
 - Score: 2/3
-- Existing solutions: Tools like Trello, Notion, and Google Docs exist, but students rarely use them effectively or consistently. Most teams default to simple messaging apps, which are not designed for structured collaboration.
-- Justification: While tools exist, they are not well integrated into student workflows or are perceived as too complex for quick use.
+- Existing solutions: Alarm apps (Alarmy, Sleep Cycle), wearable devices
+- Justification: There are many alarm solutions, but most still rely on user discipline. They don’t fully prevent snoozing behavior or adapt well to individual sleep patterns.
+
 
 **Accessible to You**
 
 - Score: 3/3
-- Who could you interview this week: Classmates currently working on group assignments, project teammates, and students from other courses. Easily reachable through university groups and chats.
-- Justification: Direct access to target users with ongoing experiences.
+- Who could you interview this week: Classmates, roommates, dorm students
+- Justification: The target users are easily accessible within the student environment.
 
-**Total: 11/12**
-**Recommendation: Strong candidate. Worth pursuing, especially with a focus on simplicity and student-friendly collaboration.**
+**Total: 10/12**  
+**Recommendation: Strong Yes**
 
 ---
 
-### Problem 5: Students have difficulty finding reliable internship or job opportunities relevant to their field
+### Problem 2: Study distractions
 
 **Real and Recurring**
 
 - Score: 3/3
-- Justification: Many students actively look for internships or entry-level jobs but struggle to find relevant and trustworthy opportunities. This issue appears repeatedly each semester, especially for second- and third-year students. We can name multiple peers who are currently searching and facing the same difficulty.
+- Justification: Digital distractions are a constant part of student life, with notifications and social media interrupting study sessions regularly.
+
+> **Annotation:** Very common and frequent issue.
 
 **Painful Enough to Act**
 
-- Score: 3/3
-- Known workaround: Students search across multiple platforms (LinkedIn, job boards, Facebook groups), ask friends, and rely on referrals. This process is time-consuming and often leads to irrelevant or low-quality results.
-- Justification: The effort is high and continuous, with no guarantee of success. Students invest hours browsing and applying, showing strong motivation to solve the problem.
+- Score: 2/3
+- Known workaround: Turning off notifications, using focus apps, studying in quiet places
+- Justification: Students attempt to reduce distractions but often struggle to maintain focus due to habit and platform design
 
 **Underserved Today**
 
 - Score: 2/3
-- Existing solutions: Platforms like LinkedIn and local job boards exist, but they are often too broad, not tailored to students, or lack entry-level filtering. Many listings require experience, making them less useful for beginners.
-- Justification: Solutions exist but are not optimized for student needs, especially for early-career opportunities.
+- Existing solutions: Focus apps, Do Not Disturb modes
+- Justification: Tools exist but depend heavily on self-control and do not fully solve the problem.
 
 **Accessible to You**
 
 - Score: 3/3
-- Who could you interview this week: Students currently searching for internships, recent graduates, and peers in computer science or other fields. Easily reachable through university and social networks.
-- Justification: High accessibility and strong relevance.
+- Who could you interview this week: Any student
+- Justification: This issue is widespread and easy to validate with peers.
 
-**Total: 11/12**
-**Recommendation: Strong candidate. Particularly valuable if focused on student-specific opportunities and filtering.**
+**Total: 10/12**  
+**Recommendation: Yes (Competitive Space)**
 
 ---
 
-<<<<<<< HEAD
-### Problem 6: Students experience burnout and lack of motivation due to academic pressure and poor time balance
-=======
+### Problem 3: Healthy eating
+
+**Real and Recurring**
+
+- Score: 2/3
+- Justification: Many students living independently face challenges with maintaining healthy eating habits, especially during busy periods.
+
+**Painful Enough to Act**
+
+- Score: 2/3
+- Known workaround: Fast food, skipping meals, simple low-effort cooking
+- Justification: Students recognize the issue but often accept unhealthy habits due to convenience and cost.
+
+**Underserved Today**
+
+- Score: 2/3
+- Existing solutions: Meal planning apps, food delivery services
+- Justification: Solutions exist but are often not tailored to student budgets or lifestyles.
+
+**Accessible to You**
+
+- Score: 3/3
+- Who could you interview this week: Dorm students, friends living independently
+- Justification: Target users are easy to reach within the university environment.
+
+**Total: 9/12**  
+**Recommendation: Maybe**
+
+---
+
+### Problem 4: to do
+
+**Real and Recurring**
+
+- Score: to do
+- Justification: to do
+
+**Painful Enough to Act**
+
+- Score: to do
+- Known workaround: to do
+- Justification: to do
+
+**Underserved Today**
+
+- Score: to do
+- Existing solutions: to do
+- Justification: to do
+
+**Accessible to You**
+
+- Score: to do
+- Who could you interview this week: to do
+- Justification: to do
+
+**Total: to do**  
+**Recommendation: to do**
+
+---
+
+### Problem 5: to do
+
+**Real and Recurring**
+
+- Score: to do
+- Justification: to do
+
+**Painful Enough to Act**
+
+- Score: to do
+- Known workaround: to do
+- Justification: to do
+
+**Underserved Today**
+
+- Score: to do
+- Existing solutions: to do
+- Justification: to do
+
+**Accessible to You**
+
+- Score: to do
+- Who could you interview this week: to do
+- Justification: to do
+
+**Total: to do**  
+**Recommendation: to do**
+
+---
+
 ### Problem 6: to do
->>>>>>> 2f1232f (problems 7-8-9 evaluated)
 
 **Real and Recurring**
 
-- Score: 3/3
-- Justification: Many students regularly feel overwhelmed, especially during midterms, finals, and project deadlines. This is a continuous issue across semesters. Team members and classmates frequently mention stress, fatigue, and lack of motivation.
+- Score: to do
+- Justification: to do
 
 **Painful Enough to Act**
 
-- Score: 2/3
-- Known workaround: Students take breaks, procrastinate, watch content, or try basic time management techniques. Some attempt productivity methods, but consistency is low.
-- Justification: While the problem is serious, many students do not actively implement structured solutions and instead cope passively.
+- Score: to do
+- Known workaround: to do
+- Justification: to do
 
 **Underserved Today**
 
-- Score: 2/3
-- Existing solutions: Productivity apps, mental health resources, and time management tools exist. However, they are often generic and not tailored to student-specific academic pressure.
-- Justification: Tools exist but fail to fully address the emotional + academic combination of the problem.
+- Score: to do
+- Existing solutions: to do
+- Justification: to do
 
 **Accessible to You**
 
-- Score: 3/3
-- Who could you interview this week: Classmates experiencing stress, students during exam periods, and friends balancing multiple responsibilities.
-- Justification: Extremely accessible and relatable.
+- Score: to do
+- Who could you interview this week: to do
+- Justification: to do
 
-**Total: 10/12**
-**Recommendation: Good candidate. Consider narrowing to a specific aspect (e.g., academic burnout during exams or productivity struggles) for a stronger solution focus.**
+**Total: to do**  
+**Recommendation: to do**
 
 ---
 
-### Problem 7: Students miss good courses, internships, and opportunities because information is scattered across multiple platforms
+### Problem 7: to do
 
 **Real and Recurring**
 
-- Score: 3/3
-- Justification: This is a real and recurring problem for students who actively look for academic and career opportunities. All of the team members have experienced it personally more than once, including finding out about a valuable course only after the deadline had passed. We can also point to classmates who often hear about internships, events, or programs late because the information is split across LinkedIn, Instagram, university chats, and different websites. For students balancing coursework, this happens repeatedly during the semester.
+- Score: to do
+- Justification: to do
 
 **Painful Enough to Act**
 
-- Score: 2/3
-- Known workaround: Students scroll LinkedIn and facebook,Instagram, check university group chats, ask friends if they have seen anything useful, and rely on word of mouth when they are too busy to monitor everything themselves.
-- Justification: The workaround is effective but still weak and unreliable. Students checks multiple sources and asking others,so the pain exists but not always urgent enough.
+- Score: to do
+- Known workaround: to do
+- Justification: to do
 
 **Underserved Today**
 
-- Score: 2/3
-- Existing solutions: LinkedIn, facebook,Instagram, Telegram or WhatsApp chats, university pages, and mailing lists all contain some of the relevant information but none of them gather student opportunities in one trusted place.
-- Justification: Existing platforms partially serve the need but not perfectly as it's nit their main goal. The problem is not that information never exists but that it is fragmented and easy to miss. Students still have to manually search so the need is only partially served.
+- Score: to do
+- Existing solutions: to do
+- Justification: to do
 
 **Accessible to You**
 
-- Score: 3/3
-- Who could you interview this week: We can interview fellow students, friends from university, and students who are active in internships, exchange programs, or short courses. These people are easy to reach through facebook,instagram, campus interactions.
-- Justification: Accessibility is very strong. All of us are part of the target user group and already know people who have experienced this problem directly.
+- Score: to do
+- Who could you interview this week: to do
+- Justification: to do
 
-**Total: 10/12**  
-**Recommendation: Strong candidate. Worth pursuing.**
+**Total: to do**  
+**Recommendation: to do**
 
 ---
 
-### Problem 8: Students avoid asking questions due to fear of judgment, slowing their learning
+### Problem 8: to do
 
 **Real and Recurring**
 
-- Score: 3/3
-- Justification: This problem is clearly real and recurring. all of us have experienced it personally. In many courses we noticed that students repeatedly hesitate to ask questions, show unfinished work, or speak up to TAs and instructors because they fear looking weak, wrong, or unprepared. This can happen throughout the semester, especially in difficult subjects.
+- Score: to do
+- Justification: to do
 
 **Painful Enough to Act**
 
-- Score: 2/3
-- Known workaround: Students try to solve problems alone for hours, search online, ask friends privately instead of instructors, postpone asking for help until the last minute, and sometimes present incomplete work after struggling in silence.
-- Justification: The workaround is specific, repeated, and costly. Students spend much more time than necessary trying to fix problems on their own, and in some cases they risk losing points or falling behind.
+- Score: to do
+- Known workaround: to do
+- Justification: to do
 
 **Underserved Today**
 
-- Score: 2/3
-- Existing solutions: Office hours, TA sessions, class chats, discussion boards, and peer help all exist, but they do not remove the emotional barrier of fear of judgment.
-- Justification: Support systems technically exist so the problem is not completely unserved. The gap is that the current solutions assume students feel comfortable asking. They don't address the psychological barrier that stops students from using those resources. That makes the problem partially underserved rather than fully solved.
+- Score: to do
+- Existing solutions: to do
+- Justification: to do
 
 **Accessible to You**
 
-- Score: 3/3
-- Who could you interview this week: We can speak with classmates, friends from shared courses, and students who have worked with TAs or struggled in presentation-based classes. These interviewees are easy to reach on campus and through facebook or instagram.
-- Justification: Accessibility is excellent. We are close to the target users, and some of us are the target users ourselves. It would be easy to collect interviews and examples quickly.
+- Score: to do
+- Who could you interview this week: to do
+- Justification: to do
 
-**Total: 10/12**  
-**Recommendation: Very strong candidate.**
+**Total: to do**  
+**Recommendation: to do**
 
 ---
 
-### Problem 9: Small creative business owners struggle to sell and manage products without a structured platform
+### Problem 9: to do
 
 **Real and Recurring**
 
-- Score: 2.5/3
-- Justification: This is a real problem, and the observation comes from direct exposure to a friend running a crochet business on Instagram. The problem seems ongoing because product display, pricing, communication, and delivery all have to be handled repeatedly for every order.
+- Score: to do
+- Justification: to do
 
 **Painful Enough to Act**
 
-- Score: 3/3
-- Known workaround: Sellers manage everything manually through Instagram DMs, answer repetitive customer questions, discuss prices one by one, post constantly to stay visible, and arrange delivery informally without a structured sales system.
-- Justification: The workaround is very active and time-consuming. These sellers are already doing a lot of manual labor just to keep the business functioning. The problem affects trust, visibility, income stability, and daily operations, which makes the pain serious enough that people would likely act if a useful solution existed.
+- Score: to do
+- Known workaround: to do
+- Justification: to do
 
 **Underserved Today**
 
-- Score: 3/3
-- Existing solutions: Instagram pages, direct messages, facebook marketplace pages, and informal delivery ways exist, but there is no widely trusted, structured local platform focused on helping small Georgian creative sellers display products, guide pricing, and manage sales reliably.
-- Justification: Current solutions are fragmented and not designed around this user group’s full needs. Instagram helps with visibility but not structured selling. Generic alternatives do not fully solve trust, discoverability, pricing, and workflow problems together. This leaves a meaningful gap in the market.
+- Score: to do
+- Existing solutions: to do
+- Justification: to do
 
 **Accessible to You**
 
-- Score: 2.5/3
-- Who could you interview this week: We could interview Ani's friend, local crochet/art page owners and a few other small Instagram based creators through personal networks.
-- Justification: The problem is accessible. We have some direct access, but not yet a large built-in network of interviewees. That means accessibility is decent, not perfect.
+- Score: to do
+- Who could you interview this week: to do
+- Justification: to do
 
-**Total: 11/12**  
-**Recommendation: Strong candidate. Worth pursuing**
+**Total: to do**  
+**Recommendation: to do**
 
 ---
 
@@ -313,105 +305,110 @@
 
 **Real and Recurring**
 
-- Score: 3/3
-- Justification: I experience this problem frequently while coding. Small errors like syntax mistakes happen in almost every assignment or lab. I can also name multiple classmates who face the same issue regularly.
+- Score: to do
+- Justification: to do
 
 **Painful Enough to Act**
 
-- Score: 3/3
-- Known workaround: Re-reading code multiple times, searching online, asking friends, or randomly testing changes. This can take 30–60 minutes for a very small mistake.
-- Justification: The amount of time wasted and frustration shows that this problem is painful enough to actively try to solve.
+- Score: to do
+- Known workaround: to do
+- Justification: to do
 
 **Underserved Today**
 
-- Score: 2/3
-- Existing solutions: Google, Stack Overflow, AI tools, and IDE error messages.
-- Justification: While tools exist, beginners often struggle to understand them or apply them correctly, so the problem is not fully solved.
+- Score: to do
+- Existing solutions: to do
+- Justification: to do
 
 **Accessible to You**
 
-- Score: 3/3
-- Who could you interview this week: Programming students from my class and friends who are also learning coding.
-- Justification: I am part of the target group and can easily reach people with the same problem.
+- Score: to do
+- Who could you interview this week: to do
+- Justification: to do
 
-**Total: 11/12**  
-**Recommendation: Strong candidate**
+**Total: to do**  
+**Recommendation: to do**
 
+---
 
-### Problem 11: Students not knowing how to start programming tasks
+### Problem 11: to do
 
 **Real and Recurring**
 
-- Score: 3/3
-- Justification: This happens often when starting new assignments. Even when concepts are understood, the first step is unclear. Many students experience this regularly.
+- Score: to do
+- Justification: to do
 
 **Painful Enough to Act**
 
-- Score: 2/3
-- Known workaround: Looking at examples, searching online, asking others, or delaying the task.
-- Justification: The problem causes delays and confusion, but it is sometimes eventually solved.
+- Score: to do
+- Known workaround: to do
+- Justification: to do
 
 **Underserved Today**
 
-- Score: 2/3
-- Existing solutions: Tutorials, examples, and documentation.
-- Justification: These resources exist but are often too general and not specific to the student’s exact problem.
+- Score: to do
+- Existing solutions: to do
+- Justification: to do
 
 **Accessible to You**
 
-- Score: 3/3
-- Who could you interview this week: Students in programming courses who regularly receive coding assignments.
-- Justification: Easy access to people experiencing this issue.
-**Total: 10/12**  
-**Recommendation: Strong candidate but slightly weaker**
+- Score: to do
+- Who could you interview this week: to do
+- Justification: to do
 
+**Total: to do**  
+**Recommendation: to do**
 
-### Problem 12: Students losing motivation when they do not understand material quickly
+---
+
+### Problem 12: to do
 
 **Real and Recurring**
 
-- Score: 2/3
-- Justification: This problem exists but depends on the person and situation. It does not happen consistently for everyone.
+- Score: to do
+- Justification: to do
 
 **Painful Enough to Act**
 
-- Score: 2/3
-- Known workaround: Taking breaks, forcing themselves to continue, or trying different study methods.
-- Justification: The problem affects consistency, but people respond differently and sometimes recover motivation.
+- Score: to do
+- Known workaround: to do
+- Justification: to do
 
 **Underserved Today**
 
-- Score: 1/3
-- Existing solutions: Many productivity apps, study techniques, and motivational content already exist.
-- Justification: This is a very crowded area with many existing solutions.
+- Score: to do
+- Existing solutions: to do
+- Justification: to do
 
 **Accessible to You**
 
-- Score: 3/3
-- Who could you interview this week: Students who struggle with studying consistency.
-- Justification: Easy to find people with this issue.
+- Score: to do
+- Who could you interview this week: to do
+- Justification: to do
 
-**Total: 8/12**  
-**Recommendation: Possible but not strong**
+**Total: to do**  
+**Recommendation: to do**
 
 ---
 
 ## Summary Scorecard
 
+## Summary Scorecard
+
 | Problem                         | R&R   | P2A   | Underserved | Accessible | Total | Recommendation |
 | ------------------------------- | ----- | ----- | ----------- | ---------- | ----- | -------------- |
-| 1 — Wake-up alarms              | to do | to do | to do       | to do      | to do | to do          |
-| 2 — Study distractions          | to do | to do | to do       | to do      | to do | to do          |
-| 3 — Healthy eating              | to do | to do | to do       | to do      | to do | to do          |
+| 1 — Wake-up alarms              | 3     | 2     | 2           | 3          | 10    | Strong         |
+| 2 — Study distractions          | 3     | 2     | 2           | 3          | 10    | Strong         |
+| 3 — Healthy eating              | 2     | 2     | 2           | 3          | 9     | Possible       |
 | 4 — Missed assignments          | to do | to do | to do       | to do      | to do | to do          |
 | 5 — Forgetting material         | to do | to do | to do       | to do      | to do | to do          |
 | 6 — Studying wrong topics       | to do | to do | to do       | to do      | to do | to do          |
-| 7 — Scattered opportunities     | 3     | 2     | 2           | 3          | 10/12 | Strong candidate |
-| 8 — Fear of asking questions    | 3     | 2     | 2           | 3          | 10/12 | Strong candidate |
-| 9 — Small business selling      | 2.5   | 3     | 3           | 2.5        | 11/12 | Strong candidate |
-| 10 — Debugging errors           | 3 | 3 | 2       | 3      | 11/12 | Strong candidate          |
-| 11 — Starting programming tasks | 3 | 2 | 2       | 3      | 10/12 | Strong candidate          |
-| 12 — Loss of motivation         | 2 | 2 | 1       | 3      | 8/12 | Possible but weak          |
+| 7 — Scattered opportunities     | to do | to do | to do       | to do      | to do | to do          |
+| 8 — Fear of asking questions    | to do | to do | to do       | to do      | to do | to do          |
+| 9 — Small business selling      | to do | to do | to do       | to do      | to do | to do          |
+| 10 — Debugging errors           | to do | to do | to do       | to do      | to do | to do          |
+| 11 — Starting programming tasks | to do | to do | to do       | to do      | to do | to do          |
+| 12 — Loss of motivation         | to do | to do | to do       | to do      | to do | to do          |
 
 ---
 
