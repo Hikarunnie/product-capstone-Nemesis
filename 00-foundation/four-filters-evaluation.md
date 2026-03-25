@@ -174,8 +174,6 @@
 - Existing solutions: Platforms like LinkedIn and local job boards exist, but they are often too broad, not tailored to students, or lack entry-level filtering. Many listings require experience, making them less useful for beginners.
 - Justification: Solutions exist but are not optimized for student needs, especially for early-career opportunities.
 
-> **Annotation:** Gap exists in relevance and accessibility for students.
-
 **Accessible to You**
 
 - Score: 3/3
@@ -193,8 +191,6 @@
 
 - Score: 3/3
 - Justification: Many students regularly feel overwhelmed, especially during midterms, finals, and project deadlines. This is a continuous issue across semesters. Team members and classmates frequently mention stress, fatigue, and lack of motivation.
-
-> **Annotation:** Highly common and persistent across student life.
 
 **Painful Enough to Act**
 
