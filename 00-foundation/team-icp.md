@@ -4,7 +4,7 @@
 
 ---
 
-## Primary ICP: Debugging Problem
+## Primary ICP: Small Creative Sellers on Instagram in Georgia
 
 ### 1. Segment
 
