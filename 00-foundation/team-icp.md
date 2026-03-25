@@ -8,61 +8,68 @@
 
 ### 1. Segment
 
-Computer Science students at Kutaisi International University who are learning programming and regularly work on coding assignments outside of class. They are still beginners and do not have strong debugging skills, even though they understand basic concepts.
+Independent artists and small creative business owners in Georgia, typically aged 18–30, who create and sell handmade products such as crochet items, jewelry, paintings, or accessories through Instagram pages. They manage their business alone and rely primarily on direct messages (DMs) to communicate with customers.
+
+Most of them are students or young adults trying to turn their creative hobby into income but do not have formal business or pricing knowledge.
 
 ---
 
 ### 2. Context
 
-The problem occurs during coding assignments or practice sessions, usually outside class hours (evenings or before deadlines). The student is working alone on their laptop and encounters a small error (such as syntax or logic mistake) that prevents progress.
+The problem occurs during daily selling activities on Instagram — when posting products, responding to customer messages, setting prices, and managing orders.
+
+This usually happens in the evening or throughout the day when they receive DMs from potential buyers asking about price, availability, or delivery.
 
 ---
 
 ### 3. Primary Pain
 
-The student cannot identify what is wrong in their code, even when the mistake is simple. They repeatedly check their code but fail to find the issue. This leads to spending 30–60 minutes on a very small error, causing frustration and slowing down progress significantly.
+The seller struggles to run their business efficiently because everything is unstructured. They do not know how to price their products properly, often underpricing or overthinking prices. Customers frequently hesitate to buy because Instagram pages without many followers seem less trustworthy.
+
+Managing orders through DMs is chaotic — messages get lost, repeated questions take time, and tracking orders is difficult. As a result, the seller loses potential sales and feels stuck in growing their business.
 
 ---
 
 ### 4. Current Workaround
 
-The student tries multiple approaches:
+The seller uses Instagram as their main tool: posting regularly, replying to DMs manually, and sometimes saving notes separately for prices or orders.
 
-re-reading the code many times
-searching the error online
-asking friends or classmates
-randomly changing parts of the code
+They try to grow their page by posting frequently or following trends, but this does not guarantee visibility. Pricing is usually based on guessing, comparing with other small sellers, or asking friends.
 
-These methods are inconsistent and often time-consuming.
+For delivery, they arrange everything manually with customers, often repeating the same information multiple times.
 
 ---
 
 ### 5. Job to Be Done
 
-"When I get stuck on a coding error, I want to quickly understand what is wrong and how to fix it, so I can continue working without wasting a lot of time."
+"When I sell my handmade products, I want an easy and trusted way to organize my products, set fair prices, and manage orders, so I can grow my business and sell consistently without feeling confused or overwhelmed."
 
 ---
 
 ### 6. Success Signal
 
-The student is able to identify and fix errors within a few minutes instead of spending long periods stuck. They continue working without frustration and complete assignments more efficiently.
+The seller can clearly display their products with structured information (price, details, delivery), receives more consistent orders, and does not need to manage everything through DMs.
+
+Customers trust the platform more, ask fewer repetitive questions, and complete purchases more easily. The seller feels more confident in pricing and sees stable growth in sales.
 
 ---
 
 ### 7. Where to Find Them
 
-KIU computer labs during study hours
-classmates from programming courses
-WhatsApp groups of CS students
-friends who are currently learning coding
+- Instagram small business pages (search hashtags like #handmadegeorgia, #crochetgeorgia, etc.)
+- Personal network (friends or acquaintances who sell handmade products)
+- University students who run small creative businesses
+- Local online communities or groups related to handmade products
 
-We can identify multiple students who match this profile and contact them directly.
+At least 5–10 potential interviewees can be identified immediately through Instagram and personal contacts.
 
 ---
 
 ### 8. Why You, Why Now
 
-I am part of this group and experience this problem myself regularly. This makes it easy to understand the situation and communicate with others who have the same issue. I can easily find and interview people with this problem this week.
+I have direct access to this segment through a close friend who runs a crochet business on Instagram. I have observed their process closely and can easily reach similar sellers through their network and Instagram.
+
+This makes it possible to conduct interviews quickly and get honest responses, since the communication will feel informal and relatable.
 
 ---
 
@@ -70,12 +77,12 @@ I am part of this group and experience this problem myself regularly. This makes
 
 | Dimension | Confidence | Basis |
 |-----------|-----------|-------|
-| Segment | High | Observed — I and other students match this|
-| Context | High | Observed — Observed during assignments and practice |
-| Primary Pain | High | Observed — Personally experienced frequently |
-| Workaround | High | Observed — Observed in my own and others’ behavior|
-| JTBD | Medium | Inferred from our own experience — Based on personal experience|
-| Success Signal | Low | Assumed — Assumed, needs validation|
+| Segment | High | Observed — close friend matches exactly|
+| Context | High | Observed — daily Instagram selling activity |
+| Primary Pain | High | Observed but needs broader validation |
+| Workaround | High | Observed directly|
+| JTBD | Medium | Inferred from observation |
+| Success Signal | Low | Assumed — needs interview validation|
 
 ---
 
