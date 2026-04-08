@@ -25,9 +25,9 @@ Current workarounds — using Instagram DMs, posting inconsistently, or explorin
 | Name | Role | GitHub |
 |---|---|---|
 | Ketevan Shavadze | Program Lead | [@Ketishavadze](https://github.com/Ketishavadze) |
-| Gvantsa Nozadze & Tamar Vatcharadze | Discovery Lead | [@Gvantsa-N](https://github.com/Gvantsa-N) & [@takovatcharadze](https://github.com/takovatcharadze) |
+| Gvantsa Nozadze  | Discovery Lead | [@Gvantsa-N](https://github.com/Gvantsa-N) |
 | Ani Kharabadze | Tech Lead | [@Hikarunnie](https://github.com/Hikarunnie) |
-
+| Tamar Vatcharadze | Discovery Lead | [@takovatcharadze](https://github.com/takovatcharadze) |
 ---
 
 ## Current Phase
