@@ -8,7 +8,7 @@
 | Role or occupation | Aspiring crochet artist |
 | Relevant context | Wants to sell handmade crochet products|
 | How recruited | Personal network |
-| Interview date | 2026-04-08 |
+| Interview date | 2026-04-02 |
 | Interview duration (minutes) | ~10 min |
 | Interview format  | in-person |
 | Interviewer(s) | Ketevan Shavadze |
