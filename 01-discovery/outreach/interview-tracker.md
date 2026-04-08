@@ -20,15 +20,17 @@ Your ICP in one sentence: Artsy individuals in Georgia who sell or want to sell 
 | #   | Contact (first name or initials) | ICP match reason | Outreach method | Date contacted | Interview date | Status | Interviewed by | Notes |
 | --- | -------------------------------- | ---------------- | --------------- | -------------- | -------------- | ------ | -------------- | ----- |
 | 1   | M.B | Crochets handmade items and wants to start selling | Template B | 1 Apr | 2 Apr | Completed | Ketevan Shavadze | Beginner seller, struggles with pricing and starting |
-| 2   | M.P | Creates handmade leather products and actively sells online | Template B | 29 Mar | 3 Apr | Completed | Ani Kharabadze | Wants centralized system for orders and communication |
-| 3   | Moirai Knits | Active Instagram crochet page selling handmade products | Template C | 29 Mar | - | Contacted | Ani Kharabadze | No response yet |
-| 4   | A.N | Previously sold handmade jewelry | Template A | 29 Mar | 4 Apr | Completed | Ketevan Shavadze | Experienced confusion in managing orders |
-| 5   | Mystar (brand) | Established handmade leather brand | Template C | 30 Mar | - | Identified | Ani Kharabadze | Potential advanced seller interview |
-| 6   | Barbelle | Handmade candle seller using Facebook group | Template B | 3 Apr | 6 Apr | Completed | Ani Kharabadze | Struggles with communication and time management |
-| 7   | Studio138 | Beginner crochet + multi-craft seller | Template B | 30 Mar | 4 Apr | Completed | Ani Kharabadze | Pricing uncertainty + trust issues |
-| 8   | ND | Hobbyist painter considering selling | Template B | 2 Apr | 4 Apr | Completed | Ketevan Shavadze | Psychological barriers to selling |
-| 9   | KK | Handmade jewelry creator | Template B | 6 Apr | 8 Apr | Completed | Tamar Vatcharadze | Confusion with orders and pricing |
-| 10  | DA | Mixed media artist (has not started selling) | Template A | 6 Apr | 8 Apr | Completed | Tamar Vatcharadze | Perfectionism + platform confusion |
+| 2   | M.P | Creates handmade leather products and actively sells online | Template B | 29 Mar | 3 Apr | Completed | Ani Kharabadze | Wants centralized order system |
+| 3   | Moirai Knits | Active Instagram crochet page selling handmade products | Template C | 29 Mar | - | Contacted | Ani Kharabadze | - |
+| 4   | A.N | Previously sold handmade jewelry | Template A | 29 Mar | 4 Apr | Completed | Ketevan Shavadze | - |
+| 5   | Mystar (brand) | Handmade leather goods brand with website | Template C | 30 Mar | - | Identified | Ani Kharabadze | - |
+| 6   | Barbelle | Handmade candle seller via Facebook | Template B | 3 Apr | 6 Apr | Completed | Ani Kharabadze | Struggles with communication & time |
+| 7   | Studio138 | Beginner crochet + multi-craft seller | Template B | 30 Mar | 4 Apr | Completed | Ani Kharabadze | Pricing & trust issues |
+| 8   | ND | Hobbyist painter considering selling | Template B | 2 Apr | 4 Apr | Completed | Ketevan Shavadze | Psychological barriers |
+| 9   | KK | Handmade jewelry creator | Template B | 6 Apr | 8 Apr | Completed | Tamar Vatcharadze | Confusion with orders & pricing |
+| 10  | DA | Mixed media artist (has not started selling) | Template A | 6 Apr | 8 Apr | Completed | Tamar Vatcharadze | Perfectionism, platform confusion |
+| 11  | Nita | Multi-craft hobbyist struggling with organization | Template B | 7 Apr | 8 Apr | Completed | Gvantsa Nozadze | Overwhelmed by categorization |
+| 12  | Meg | Handmade bookmarks/keychains creator | Template B | 6 Apr | 7 Apr | Completed | Gvantsa Nozadze | Limited time, high effort concern |
 
 ---
 
