@@ -89,7 +89,7 @@ Social: be seen as a real artist
 
 ## ICP Fit Assessment
 
-- [ x ] Strong fit -- this is exactly the person we defined
+- [x] Strong fit -- this is exactly the person we defined
 - [ ] Partial fit -- matches on some dimensions but not all (explain):
 - [ ] Poor fit -- we should not have recruited this person (explain what we learned and why):
 
