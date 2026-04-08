@@ -19,13 +19,13 @@ Your ICP in one sentence: Artsy individuals in Georgia who sell or want to sell 
 
 | #   | Contact (first name or initials) | ICP match reason | Outreach method | Date contacted | Interview date | Status | Interviewed by | Notes |
 | --- | -------------------------------- | ---------------- | --------------- | -------------- | -------------- | ------ | -------------- | ----- |
-| 1   |                                  |                  |                 |                |                |        |                |       |
-| 2   |                                  |                  |                 |                |                |        |                |       |
-| 3   |                                  |                  |                 |                |                |        |                |       |
-| 4   |                                  |                  |                 |                |                |        |                |       |
-| 5   |                                  |                  |                 |                |                |        |                |       |
-| 6   |                                  |                  |                 |                |                |        |                |       |
-| 7   |                                  |                  |                 |                |                |        |                |       |
+| 1   |       M.B                        |Crochets handmade items and wants to start selling      |  Template B               |   25 Mar             |    31 Mar            |    Completed    |   Ketevan Shavadze             |  Beginner seller, struggles with pricing and starting     |
+| 2   |       M.P                        |creates handmade leather products and interested in selling                 |  Template B               |  29 Mar              |  3 Apr              |   Completed     |  Ani Kharabadze              | wants centralized order system    |
+| 3   |       Moirai Knits               |Active Instagram crochet page selling handmade products                  |  Template C               | 29 Mar               |   -              |  Contacted      |    Ani Kharabadze            |  -     |
+| 4   |       A.N                        | Previously sold handmade jewelry                 |   Template A              |  29 Mar              |   2 Apr             |  Complete     |   Ketevan Shavadze            |   -    |
+| 5   |       Mystar (brand)             |Handmade leather goods brand with website                  | Template C               |    -            |     -           |   Identified     |   Ani Kharabadze             |  -     |
+| 6   |   Barbelle                       |  Handmade soap goods selling via facebook group               |   Template B              |    3 Apr            |   6 Apr             |   Complete     |      Ani Kharabadze           |  struggles with contacting and attracting customers     |
+| 7   |    Studio138                              |        Beginner crochet seller, multi-craft interests          |      Template B           |      30 Mar 2026          |        04 Apr        |   Completed     |       Ani Kharabadze         |  Hesitant posting multiple products. pricing & trust concerns     |
 | 8   |                                  |                  |                 |                |                |        |                |       |
 | 9   |                                  |                  |                 |                |                |        |                |       |
 | 10  |                                  |                  |                 |                |                |        |                |       |
