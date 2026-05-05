@@ -10,11 +10,21 @@
 
 ## The Problem We're Solving
 
-Aspiring artists and handmade product creators struggle to successfully sell their work online because the process is fragmented, overwhelming, and poorly structured. They rely heavily on platforms like Instagram and TikTok, where selling is manual, inconsistent, and dependent on visibility algorithms.
+Aspiring and early-stage handmade creators struggle to start and sustain selling their products online because the process is both emotionally risky and operationally unstructured.
 
-As a result, creators face difficulties with pricing, marketing, managing orders, and maintaining consistency. Many become discouraged due to low engagement, lack of organization, and the pressure of handling everything alone — leading them to abandon selling altogether despite enjoying the creative process.
+At the early stage, many creators hesitate to start selling at all. Selling feels uncomfortable, requires perceived perfection, and exposes them to judgment — leading to delays or complete inaction.
 
-Current workarounds — using Instagram DMs, posting inconsistently, or exploring complex platforms like Etsy — are inefficient and intimidating, leaving creators without a simple, centralized system to manage their creative business.
+For those who do start, selling through platforms like Instagram becomes chaotic and inefficient. Orders are managed through DMs, pricing is unclear, and workflows are manual, leading to confusion, lost sales, and frustration.
+
+As a result, creators either:
+- never start selling, or  
+- start but quickly become overwhelmed and stop  
+
+Current workarounds — Instagram DMs, inconsistent posting, or attempting complex platforms like Etsy — fail because they either lack structure or require skills and effort beyond beginner sellers.
+
+**Core insight:** This is not just a tools problem — it is both:
+- emotional (fear, hesitation, perfectionism)  
+- structural (lack of simple systems for selling)
 
 **Four Filters Score: 11/12** — committed as of March 27, 2026.
 
@@ -28,16 +38,25 @@ Current workarounds — using Instagram DMs, posting inconsistently, or explorin
 | Gvantsa Nozadze  | Discovery Lead | [@Gvantsa-N](https://github.com/Gvantsa-N) |
 | Ani Kharabadze | Tech Lead | [@Hikarunnie](https://github.com/Hikarunnie) |
 | Tamar Vatcharadze | Discovery Lead | [@takovatcharadze](https://github.com/takovatcharadze) |
+
 ---
 
 ## Current Phase
 
-We are in the **user discovery phase (Week 3).** We have committed to our problem statement and are currently conducting interviews with artists and handmade product creators to better understand their experiences with selling online, including challenges around pricing, visibility, and managing sales.
+We are in the **user discovery phase (Week 3–4).**
+
+We have completed 10 interviews with handmade creators and validated that the problem exists across both:
+- aspiring sellers (who do not start), and  
+- early sellers (who struggle to manage selling)
+
+Current focus:
+- synthesizing interview data  
+- identifying patterns (emotional + operational barriers)  
+- refining our Ideal Customer Profile  
 
 ---
 
 ## Repository Structure
-
 ```
 00-foundation/   # Team contract, problem statement, ICP profiles, four filters evaluation
 01-discovery/    # Interview scripts, outreach tracker, and interview logs
@@ -48,4 +67,4 @@ milestones/      # Weekly milestone tracking documents
 
 ## Status
 
-> **Week 3** - Focused on handmade product creators and artists (11/12 four filters). User interviews in progress.
+> **Week 4** — 10/10 interviews completed. Problem validated with strong evidence. Currently synthesizing insights and refining ICP based on emotional and structural pain patterns.
