@@ -1,184 +1,222 @@
-**Team Name:** Nemesis
-**Date:** 25 March 2026
-**Version:** v1.0 (pre-interview hypothesis)
+# Ideal Customer Profile (Updated)
+
+**Team Name:** Nemesis  
+**Date:** April 8, 2026  
+**Version:** v2.0 (post-interview, evidence-based)  
+**Based on:** 10 interviews (DA, KK, Nita, Meg, Barbelle, MP, MB, Studio138, AN, ND)
 
 ---
 
-## Primary ICP: Small Creative Sellers on Instagram in Georgia
+## Revision History
 
-### 1. Segment
+| Version | Date | What Changed | Interview Evidence |
+|---------|------|--------------|-------------------|
+| v1.0 | March 25, 2026 | Initial hypothesis | Pre-interview |
+| v2.0 | April 8, 2026 | Refined with real pain, quotes, and patterns | 10 interviews |
 
-Independent artists and small creative business owners in Georgia, typically aged 18–30, who create and sell handmade products such as crochet items, jewelry, paintings, or accessories through Instagram pages. They manage their business alone and rely primarily on direct messages (DMs) to communicate with customers.
 
-Most of them are students or young adults trying to turn their creative hobby into income but do not have formal business or pricing knowledge.
+# Primary ICP Profile 1: The Aspiring Seller (Non-Starter)
 
----
+## 1. Segment
 
-### 2. Context
+**Who is this person?**  
+A student or young adult (18–30) in Georgia who creates handmade or artistic products but has not started selling consistently.
 
-The problem occurs during daily selling activities on Instagram - when posting products, responding to customer messages, setting prices, and managing orders.
+They have interest in monetizing their work but hesitate to begin.
 
-This usually happens in the evening or throughout the day when they receive DMs from potential buyers asking about price, availability, or delivery.
+**Validated by:** 7/10 interviews (DA, ND, MB, Meg, Studio138, Nita, KK)
 
----
 
-### 3. Primary Pain
 
-The seller struggles to run their business efficiently because everything is unstructured. They do not know how to price their products properly, often underpricing or overthinking prices. Customers frequently hesitate to buy because Instagram pages without many followers seem less trustworthy.
+## 2. Context
 
-Managing orders through DMs is chaotic: messages get lost, repeated questions take time, and tracking orders is difficult. As a result, the seller loses potential sales and feels stuck in growing their business.
+**When does the problem occur?**  
+At the moment they consider starting to sell or after posting their first products.
 
----
+**Where?**  
+Instagram or Facebook, usually through posts and DMs.
 
-### 4. Current Workaround
+**Evidence:**
+- "I posted my products, but after that I didn’t really know what to do next." (KK)
+- "There are too many platforms." (DA)
 
-The seller uses Instagram as their main tool: posting regularly, replying to DMs manually, and sometimes saving notes separately for prices or orders.
 
-They try to grow their page by posting frequently or following trends, but this does not guarantee visibility. Pricing is usually based on guessing, comparing with other small sellers, or asking friends.
 
-For delivery, they arrange everything manually with customers, often repeating the same information multiple times.
+## 3. Primary Pain
 
----
+They do not start selling because the process feels emotionally risky and overwhelming.
 
-### 5. Job to Be Done
+**Evidence:**
+- "I feel like I need everything to be perfect before I start." (DA)
+- "Posting my work and asking people to buy it feels uncomfortable." (ND)
+- "If no one buys, it feels like my work isn’t good enough." (DA)
 
-"When I sell my handmade products, I want an easy and trusted way to organize my products, set fair prices, and manage orders, so I can grow my business and sell consistently without feeling confused or overwhelmed. Also people to be sure that I am real seller and they can trust me."
+**Behavioral impact:**
+- Delays starting
+- Avoids selling entirely
+- Overthinks instead of acting
 
----
+**Validation rate:** 7/10 interviews  
+**Pain intensity:** 5 / 5  
 
-### 6. Success Signal
 
-The seller can clearly display their products with structured information (price, details, delivery), receives more consistent orders, and does not need to manage everything through DMs.
 
-Customers trust the platform more, ask fewer repetitive questions, and complete purchases more easily. The seller feels more confident in pricing and sees stable growth in sales.
+## 4. Current Workarounds
 
----
+| Workaround | Why It Fails |
+|-----------|--------------|
+| Waiting for “perfect moment” | Never leads to action |
+| Posting without selling intent | No revenue generated |
+| Avoiding selling entirely | Problem remains unsolved |
 
-### 7. Where to Find Them
 
-- Instagram small business pages (search hashtags like #handmadegeorgia, #crochetgeorgia, etc.)
-- Personal network (friends or acquaintances who sell handmade products)
-- University students who run small creative businesses
-- Local online communities or groups related to handmade products
 
-At least 5–10 potential interviewees can be identified immediately through Instagram and personal contacts.
+## 5. Job to Be Done
 
----
+"When I consider selling my products, I want a simple and low-risk way to start, so I don’t feel overwhelmed or afraid of failure."
 
-### 8. Why You, Why Now
 
-I have direct access to this segment through a close friend who runs a crochet business on Instagram. I have observed their process closely and can easily reach similar sellers through their network and Instagram.
 
-This makes it possible to conduct interviews quickly and get honest responses, since the communication will feel informal and relatable.
+## 6. Success Signal
 
----
+- Starts selling without overthinking
+- Feels comfortable posting products
+- Does not associate selling with personal judgment
 
-### Evidence Basis
+
+
+## 7. Pain Intensity
+
+**Average:** 5 / 5  
+**Emotional language:** "afraid", "uncomfortable", "not good enough", "overthinking"
+
+
+
+# Primary ICP Profile 2: The Early Seller (Struggling Operator)
+
+## 1. Segment
+
+**Who is this person?**  
+A beginner seller who has already started selling handmade products through Instagram or Facebook but struggles to manage the process.
+
+They rely on DMs and manual tracking.
+
+**Validated by:** 7/10 interviews (KK, AN, MP, Barbelle, Studio138, ND, DA)
+
+
+## 2. Context
+
+**When does the problem occur?**  
+During daily selling activities:
+- Responding to DMs  
+- Managing orders  
+- Setting prices  
+
+**Where?**  
+Instagram DMs and informal communication channels.
+
+**Evidence:**
+- "People would text me randomly and I would forget who ordered what." (KK)
+- "Orders could get confusing." (AN)
+
+
+## 3. Primary Pain
+
+Managing selling through Instagram is chaotic, unstructured, and time-consuming.
+
+**Evidence:**
+- "Keeping track… was confusing and time-consuming." (MP)
+- "I don’t know how to text customers." (Barbelle)
+
+**Behavioral impact:**
+- Lost or mixed-up orders  
+- Repeated manual work  
+- Reduced motivation to continue  
+
+**Validation rate:** 7/10 interviews  
+**Pain intensity:** 4 / 5  
+
+
+
+## 4. Current Workarounds
+
+| Workaround | Why It Fails |
+|-----------|--------------|
+| Instagram DMs | Messages get lost and disorganized |
+| Manual notes | Not scalable |
+| Memory-based tracking | Leads to errors |
+
+
+
+## 5. Job to Be Done
+
+"When I sell my products, I want a simple way to organize orders, pricing, and communication, so I don’t feel overwhelmed and lose sales."
+
+
+
+## 6. Success Signal
+
+- Orders are clearly tracked  
+- No confusion in communication  
+- Reduced time spent managing DMs  
+
+
+
+## 7. Pain Intensity
+
+**Average:** 4 / 5  
+**Emotional language:** "confusing", "stressful", "messy"
+
+
+
+# Key Insight: Who is the REAL Priority?
+
+The biggest opportunity is at the **transition point between Aspiring Seller → Early Seller**.
+
+- Aspiring sellers **don’t start**
+- Early sellers **start but struggle**
+
+If you solve only operations → you miss non-starters  
+If you solve only emotions → users still fail after starting  
+
+**Strongest product signal:**
+A solution that:
+- reduces emotional risk (Profile 1)
+- provides structure (Profile 2)
+
+
+
+# ICP Comparison Summary
+
+| Dimension | Profile 1: Aspiring Seller | Profile 2: Early Seller |
+|-----------|--------------------------|-------------------------|
+| Stage | Not started | Started selling |
+| Core pain | Fear & hesitation | Chaos & inefficiency |
+| Pain intensity | 5 / 5 | 4 / 5 |
+| Failure mode | Never starts | Starts → gets overwhelmed |
+| Priority | High | High |
+
+
+
+# Evidence Basis
 
 | Dimension | Confidence | Basis |
 |-----------|-----------|-------|
-| Segment | High | Observed — close friend matches exactly|
-| Context | High | Observed — daily Instagram selling activity |
-| Primary Pain | High | Observed but needs broader validation |
-| Workaround | High | Observed directly|
-| JTBD | Medium | Inferred from observation |
-| Success Signal | Low | Assumed — needs interview validation|
-
----
-
-### Revision History
-
-| Version | Date | What changed | Interview evidence |
-|---------|------|--------------|-------------------|
-| v1.0 | 25 March 2026 | Initial hypothesis | Pre-interview |
-
----
-
----
-
-## Secondary ICP: Students Missing Assignment Notifications
-
-### 1. Segment
-
-University students who are enrolled in multiple courses and rely on different platforms (LMS) to track assignments and academic updates.
-
-They are generally active students who want to keep up with their coursework but do not have a centralized system to track deadlines and depend on notifications to stay updated.
-
----
-
-### 2. Context
-
-The problem occurs when new assignments or tasks are uploaded by professors on platforms such as LMS or shared through different communication channels.
-
-Students are not always actively checking every platform, so they depend on notifications to be aware of updates. When notifications are missed, delayed, or unclear, students only discover assignments later — often through other students or by accidentally checking the platform.
-
----
-
-### 3. Primary Pain
-
-The student misses or delays starting assignments because they are not aware of them at the right time. This reduces the time available to complete the work and creates unnecessary stress.
-
-Instead of planning their work properly, they are forced into last-minute situations, which affects both the quality of their work and their overall academic experience.
-
----
-
-### 4. Current Workaround
+| Segment | ⭐⭐⭐⭐⭐ | 10/10 interviews matched profiles |
+| Context | ⭐⭐⭐⭐⭐ | Repeated across interviews |
+| Primary Pain | ⭐⭐⭐⭐⭐ | Strong quotes + high intensity |
+| Workarounds | ⭐⭐⭐⭐⭐ | Clearly failing across users |
+| JTBD | ⭐⭐⭐⭐ | Derived from multiple quotes |
+| Success Signal | ⭐⭐⭐⭐ | Implied from behavior |
 
 
-Students try to manage this by checking platforms manually (LMS) multiple times a day, asking classmates in group chats, or relying on friends to notify them about new tasks.
+# Final Insight
 
-Some students create personal reminders or notes, but these systems are inconsistent and require extra effort to maintain.
+Unlike the initial hypothesis, the problem is not only operational.
 
----
+It is **both emotional and structural**:
 
-### 5. Job to Be Done
+- Emotional → prevents starting  
+- Structural → prevents scaling  
 
-"When a new assignment is uploaded, I want to be clearly and immediately notified in one place, so I can start on time and avoid last-minute stress."
-
----
-
-### 6. Success Signal
-
-The student is aware of assignments as soon as they are posted and can plan their work in advance. They no longer rely on classmates for updates and do not experience last-minute panic due to missed information.
-
-They feel more in control of their schedule and complete tasks with enough time.
-
----
-
-### 7. Where to Find Them
-
-- University students in different years and programs
-- Course group chats (WhatsApp, Messenger, Instagram DMs etc.)
-- Classmates and friends who have experienced missing assignments
-- Students active in university-related online groups
-
-At least 5–10 interviewees can be identified easily through personal networks and class groups.
-
----
-
-### 8. Why You, Why Now
-
-I personally experience this problem and have seen multiple classmates face the same issue. This gives me direct access to the target users and allows me to quickly find interviewees.
-
-Because I am part of the same environment, I understand how students currently track assignments and where the system fails.
-
----
-
-### Evidence Basis
-
-| Dimension | Confidence | Basis |
-|-----------|-----------|-------|
-| Segment | Medium | Observed — applies to many students I know |
-| Context | Medium | Observed - happens during assignment uploads |
-| Primary Pain | Medium | Observed but needs validation across more students |
-| Workaround | Medium | Observed — checking manually and asking others |
-| JTBD | Low |Inferred from experience |
-| Success Signal | Low | Assumed — needs interview validation |
-
----
-
-### Revision History
-
-| Version | Date | What changed | Interview evidence |
-|---------|------|--------------|-------------------|
-| v1.0 | 25 March 2026 | Initial hypothesis | Pre-interview |
+**If a solution does not address both, it will fail.**
