@@ -10,7 +10,7 @@
 | Total stickies | ~45–55 (estimated from insights & quotes) |
 | Tool used (Miro / FigJam / Physical) | FigJam |
 | Board link (if digital) | N/A |
-| Image file | `https://drive.google.com/file/d/1Avw53w3anMvcV2w_atdHjVJjesH3CE_G/view?usp=drive_link` |
+| Image file | `https://github.com/Hikarunnie/product-capstone-Nemesis/blob/main/01-discovery/synthesis/affinity-map-photo.png` |
 | Team members present | Ani Kharabadze, Ketevan Shavadze, Tamar Vatcharadze, Gvantsa Nozadze |
 
 ---
