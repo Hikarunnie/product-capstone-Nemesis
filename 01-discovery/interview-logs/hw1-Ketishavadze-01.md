@@ -8,7 +8,7 @@
 | Role or occupation | Aspiring crochet artist |
 | Relevant context | Wants to sell handmade crochet products|
 | How recruited | Personal network |
-| Interview date | 2026-04-08 |
+| Interview date | 2026-04-02 |
 | Interview duration (minutes) | ~10 min |
 | Interview format  | in-person |
 | Interviewer(s) | Ketevan Shavadze |
@@ -93,7 +93,7 @@ Social: be seen as a legitimate artist (not hobbyist)
 
 ## ICP Fit Assessment
 
-- [ x ] Strong fit -- this is exactly the person we defined
+- [x] Strong fit -- this is exactly the person we defined
 - [ ] Partial fit -- matches on some dimensions but not all (explain):
 - [ ] Poor fit -- we should not have recruited this person (explain what we learned and why):
 

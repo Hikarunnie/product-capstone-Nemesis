@@ -1,7 +1,7 @@
 # Interview Outreach Tracker
 
 **Team Name:** Nemesis  
-**Problem:** Artsy individuals in Georgia who want to sell handmade or artistic products do not have a structured platform to manage sales and pricing, so they rely on Instagram in an unstructured way.  
+**Problem:** Artsy individuals in Georgia who want to sell handmade or artistic products do not have a structured platform to manage sales, pricing, and customer communication, so they rely on Instagram/Facebook in an unstructured way.  
 **Target:** 10 completed interviews by end of Week 4 (by 9 April 2026)  
 **Minimum for Lab 2 homework:** 5 contacts identified and outreach initiated by 25 March 2026
 
@@ -19,16 +19,18 @@ Your ICP in one sentence: Artsy individuals in Georgia who sell or want to sell 
 
 | #   | Contact (first name or initials) | ICP match reason | Outreach method | Date contacted | Interview date | Status | Interviewed by | Notes |
 | --- | -------------------------------- | ---------------- | --------------- | -------------- | -------------- | ------ | -------------- | ----- |
-| 1   |       M.B                        |Crochets handmade items and wants to start selling      |  Template B               |   25 Mar             |    31 Mar            |    Completed    |   Ketevan Shavadze             |  Beginner seller, struggles with pricing and starting     |
-| 2   |       M.P                        |creates handmade leather products and interested in selling                 |  Template B               |  29 Mar              |  3 Apr              |   Completed     |  Ani Kharabadze              | wants centralized order system    |
-| 3   |       Moirai Knits               |Active Instagram crochet page selling handmade products                  |  Template C               | 29 Mar               |   -              |  Contacted      |    Ani Kharabadze            |  -     |
-| 4   |       A.N                        | Previously sold handmade jewelry                 |   Template A              |  29 Mar              |   2 Apr             |  Complete     |   Ketevan Shavadze            |   -    |
-| 5   |       Mystar (brand)             |Handmade leather goods brand with website                  | Template C               |    -            |     -           |   Identified     |   Ani Kharabadze             |  -     |
-| 6   |   Barbelle                       |  Handmade soap goods selling via facebook group               |   Template B              |    3 Apr            |   6 Apr             |   Complete     |      Ani Kharabadze           |  struggles with contacting and attracting customers     |
-| 7   |    Studio138                              |        Beginner crochet seller, multi-craft interests          |      Template B           |      30 Mar 2026          |        04 Apr        |   Completed     |       Ani Kharabadze         |  Hesitant posting multiple products. pricing & trust concerns     |
-| 8   |                                  |                  |                 |                |                |        |                |       |
-| 9   |                                  |                  |                 |                |                |        |                |       |
-| 10  |                                  |                  |                 |                |                |        |                |       |
+| 1   | M.B | Crochets handmade items and wants to start selling | Template B | 1 Apr | 2 Apr | Completed | Ketevan Shavadze | Beginner seller, struggles with pricing and starting |
+| 2   | M.P | Creates handmade leather products and actively sells online | Template B | 29 Mar | 3 Apr | Completed | Ani Kharabadze | Wants centralized order system |
+| 3   | Moirai Knits | Active Instagram crochet page selling handmade products | Template C | 29 Mar | - | Contacted | Ani Kharabadze | - |
+| 4   | A.N | Previously sold handmade jewelry | Template A | 29 Mar | 4 Apr | Completed | Ketevan Shavadze | - |
+| 5   | Mystar (brand) | Handmade leather goods brand with website | Template C | 30 Mar | - | Identified | Ani Kharabadze | - |
+| 6   | Barbelle | Handmade candle seller via Facebook | Template B | 3 Apr | 6 Apr | Completed | Ani Kharabadze | Struggles with communication & time |
+| 7   | Studio138 | Beginner crochet + multi-craft seller | Template B | 30 Mar | 4 Apr | Completed | Ani Kharabadze | Pricing & trust issues |
+| 8   | ND | Hobbyist painter considering selling | Template B | 2 Apr | 4 Apr | Completed | Ketevan Shavadze | Psychological barriers |
+| 9   | KK | Handmade jewelry creator | Template B | 6 Apr | 8 Apr | Completed | Tamar Vatcharadze | Confusion with orders & pricing |
+| 10  | DA | Mixed media artist (has not started selling) | Template A | 6 Apr | 8 Apr | Completed | Tamar Vatcharadze | Perfectionism, platform confusion |
+| 11  | Nita | Multi-craft hobbyist struggling with organization | Template B | 7 Apr | 8 Apr | Completed | Gvantsa Nozadze | Overwhelmed by categorization |
+| 12  | Meg | Handmade bookmarks/keychains creator | Template B | 6 Apr | 7 Apr | Completed | Gvantsa Nozadze | Limited time, high effort concern |
 
 ---
 
@@ -65,9 +67,9 @@ Your ICP in one sentence: Artsy individuals in Georgia who sell or want to sell 
 
 | Week               | Target interviews        | Completed | Running total |
 | ------------------ | ------------------------ | --------- | ------------- |
-| Week 2 (by 25 Mar) | 0 completed, 5 contacted |           |               |
-| Week 3 (by 1 Apr)  | 4 completed              |           |               |
-| Week 4 (by 9 Apr)  | 10 completed             |           |               |
+| Week 2 (by 25 Mar) | 0 completed, 5 contacted | 0 | 2 |
+| Week 3 (by 1 Apr)  | 4 completed              | 4 | 5 |
+| Week 4 (by 9 Apr)  | 10 completed             | 10 | 10 |
 
 ---
 
@@ -75,10 +77,16 @@ Your ICP in one sentence: Artsy individuals in Georgia who sell or want to sell 
 
 | Referred by (interview #) | Referred person | Contact info | Status |
 | ------------------------- | --------------- | ------------ | ------ |
-| 1                         |                 |              |        |
-| 2                         |                 |              |        |
-| 3                         |                 |              |        |
+| 2 (M.P)                   | Local leather crafts group | Instagram | Potential |
+| 7 (Studio138)             | Friend who sells crochet plushies | - | Not contacted |
+| 6 (Barbelle)              | Facebook seller community | Facebook group | Potential |
 
 ---
 
 ## Notes and Observations
+
+- Most participants rely on Instagram/Facebook but struggle with **order management and communication**
+- Pricing uncertainty is a **major early-stage blocker**
+- Many users **never start selling due to psychological barriers**
+- Even active sellers experience **workflow chaos and time pressure**
+- There is strong demand for a **simple, all-in-one platform**
