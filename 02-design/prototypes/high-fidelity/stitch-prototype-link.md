@@ -109,7 +109,7 @@ Make the product cards and studio listing cards match the handmade brand identit
 ## Design Decisions
 
 **Decision 1:**  
-We made **Create New Listing** the main button in the creator workspace because our interview findings showed that creators often know how to make products but do not always know what to do after posting or how to structure the selling process. A clear listing workflow helps reduce confusion and guides them toward the activation event.
+We made **Create New Listing** the main button in the creator workspace because our interview findings show that creators often know how to make products but do not always know what to do after posting or how to structure the selling process. A clear listing workflow helps reduce confusion and guides them toward the activation event.
 
 **Decision 2:**  
 We kept the listing form simple with only the most important fields: product images, title, category, price, and description. This connects to the insight that beginner handmade sellers can feel uncertain or overwhelmed when selling online. A simple form makes listing creation feel faster and less intimidating.
