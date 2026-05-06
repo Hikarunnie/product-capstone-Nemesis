@@ -43,7 +43,6 @@ The activation event `listing_completed` directly supports the North Star Metric
 
 ## Stitch Brief Used
 
-Paste the exact brief you used to generate this prototype:
 
 **Product name:**  
 Nemesis Craft Market
