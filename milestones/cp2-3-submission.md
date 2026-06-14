@@ -93,10 +93,7 @@ Full document: `03-build/architecture/tech-stack.md`
 | Image storage | Supabase Storage | Bundled with Supabase; no extra service needed for product photos | Cloudinary — extra integration not justified at MVP |
 
 ### 2.3 Architecture Diagram
-
-![Musa Architecture Diagram](../03-Build/architecture/architecture-diagram.png)
-
-Hosted on: Vercel (frontend) · Supabase (backend + DB + storage)
+![alt text](image.png)
 
 ### 2.4 AI Tool Annotations
 
@@ -114,7 +111,7 @@ All entries: Result = Modified — no AI output accepted verbatim. All assumptio
 
 ### 3.1 Live URL
 
-> [Musa live link](https://musa-front.pages.dev/)
+> https://musa-front.pages.dev/
 
 Deployed via Vercel. Any examiner can open this URL in any browser — no installation required.
 

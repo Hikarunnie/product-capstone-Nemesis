@@ -13,61 +13,66 @@
 
 Yes. A loop exists in our product, but it is currently partially designed and not yet fully built as a deliberate feature. It operates as follows:
 
+
 Step 1: Creator publishes a listing on Nemesis (listing_completed fires)
-↓
+           ↓
 Step 2: Creator shares their listing URL to Instagram Stories, WhatsApp, or
-TikTok to promote their own product (organic creator behaviour —
-creators already do this for Etsy and other shops)
-↓
+        TikTok to promote their own product (organic creator behaviour —
+        creators already do this for Etsy and other shops)
+           ↓
 Step 3: A viewer (friend, follower, craft community member) taps the link,
-lands on the Nemesis listing page, and sees the product + marketplace
-↓
+        lands on the Nemesis listing page, and sees the product + marketplace
+           ↓
 Step 4: The viewer sees the "Sell your crafts on Nemesis" CTA on the listing
-page and the Explore feed below the product
-↓
+        page and the Explore feed below the product
+           ↓
 Step 5: Some fraction of viewers are themselves creators; they sign up and
-start their own listing → new listing_completed event fires
-↓
-(Loop restarts at Step 2 when the new creator shares their listing)
+        start their own listing → new listing_completed event fires
+           ↓
+        (Loop restarts at Step 2 when the new creator shares their listing)
+
 
 This loop exists today in a weak form: our listing pages have public URLs and creators can share them. The loop will be formalised in Sprint 2 with a designed "Share your listing" feature that produces a branded card (product image + creator name + Nemesis logo) optimised for Instagram Stories and WhatsApp preview links.
 
+
+
 ### K-Factor Estimate
 
+
 K = invitations sent per active creator per month
-x
-conversion rate of invitations to new signed-up creators
+    x
+    conversion rate of invitations to new signed-up creators
 
 Invitations (shares) per active creator per month:
-Not all creators share every listing. Estimate: a creator who has published
-a listing shares it to at least one channel ~35% of the time in the first
-week of publishing.
-→ 0.35 shares per active creator per month
-[Assumption: based on observed behaviour of craft sellers on Instagram
-who post about new shop items. Will replace with share event data
-once Share feature is instrumented.]
+  Not all creators share every listing. Estimate: a creator who has published
+  a listing shares it to at least one channel ~35% of the time in the first
+  week of publishing.
+  → 0.35 shares per active creator per month
+  [Assumption: based on observed behaviour of craft sellers on Instagram
+   who post about new shop items. Will replace with share event data
+   once Share feature is instrumented.]
 
 Conversion rate of shares to new creator signups:
-Of people who see a shared listing link:
-
-- Fraction who are also potential creators (not just buyers): ~25%
-- Fraction of those who sign up: ~15%
-- Fraction of signups who complete listing_completed: 28%
+  Of people who see a shared listing link:
+  - Fraction who are also potential creators (not just buyers): ~25%
+  - Fraction of those who sign up: ~15%
+  - Fraction of signups who complete listing_completed: 28%
   Overall share-to-new-activated-creator rate:
   0.25 x 0.15 x 0.28 = 0.011 ≈ 1.1%
 
-Wait — let's simplify to match the K-factor formula as taught:
-"Conversion rate of invitations" = rate at which a shared link results in
-a new user signing up and activating.
+  Wait — let's simplify to match the K-factor formula as taught:
+  "Conversion rate of invitations" = rate at which a shared link results in
+  a new user signing up and activating.
 
-Estimated: 43%
-[This is the rate of link visitors who sign up (20%) x activation rate (28%)
-among those who were already considering selling handmade goods (we assume
-the typical person clicking a craft listing share is somewhat interested
-in craft buying/selling). Benchmark proxy: social referral conversion
-for niche marketplaces 30-50%. Source: Assumption.]
+  Estimated: 43%
+  [This is the rate of link visitors who sign up (20%) x activation rate (28%)
+   among those who were already considering selling handmade goods (we assume
+   the typical person clicking a craft listing share is somewhat interested
+   in craft buying/selling). Benchmark proxy: social referral conversion
+   for niche marketplaces 30-50%. Source: Assumption.]
 
 K = 0.35 x 0.43 = 0.15
+
 
 **K = 0.15**
 
@@ -94,7 +99,6 @@ Nemesis Craft Market has a **two-sided local network effect:**
 - **Demand side:** More buyers on the platform → more potential customers per listing → creators earn more → more creators join → platform becomes more attractive to buyers
 
 This is a **local** two-sided network effect because the network is currently constrained to:
-
 1. A specific geography: Tbilisi and Georgian craft market
 2. A specific product category: handmade crafts (crochet, jewelry, accessories, decorations)
 3. A specific community: Georgian handmade creator and craft buyer networks
@@ -104,13 +108,11 @@ The network effect does not currently extend beyond this local context. A user i
 ### Critical Mass Threshold
 
 The platform becomes genuinely useful to buyers when:
-
 - **Minimum 40 active listings** across at least 5 distinct product categories (so buyers can browse meaningfully rather than see a near-empty feed)
 - **Minimum 20 active creators** (to ensure listing freshness — buyers need to see new items regularly to return)
 - Both thresholds must be met simultaneously within the same local geography
 
 **Current position:**
-
 - Active listings: [Assumption: 0 at time of writing — pre-launch. Target: reach 40 listings by end of Month 2.]
 - Active creators: [Assumption: 0 at time of writing. Target: reach 20 creators by end of Month 2.]
 
@@ -133,7 +135,7 @@ A dedicated Georgian handmade craft marketplace with 100 verified creators and a
 Network effects begin to generate switching costs. A creator who has built their shop on Nemesis — published 10+ listings, received buyer reviews, built a follower base of repeat buyers — has real switching costs. Moving to a competitor means rebuilding their entire shop, losing their review history, and losing their Nemesis-specific audience. This is a moderate moat.
 
 **By 1,000 active creators:**  
-The two-sided network effect becomes self-reinforcing. Buyers come to Nemesis specifically because it is _the_ Georgian handmade craft marketplace. A new entrant cannot replicate the buyer trust or creator community network without starting from zero.
+The two-sided network effect becomes self-reinforcing. Buyers come to Nemesis specifically because it is *the* Georgian handmade craft marketplace. A new entrant cannot replicate the buyer trust or creator community network without starting from zero.
 
 **Honest assessment of current moat weaknesses:**
 
