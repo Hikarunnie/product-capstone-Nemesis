@@ -1,7 +1,7 @@
 # Event Schema
 
 **Team:** Nemesis  
-**Product:** Nemesis Platform  
+**Product:** Musa   
 **Date:** April 15, 2026  
 **Version:** 1.0  
 **Status:** Blueprint (instrumentation in Lab 6)

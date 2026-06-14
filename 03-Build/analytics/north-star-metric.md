@@ -1,7 +1,7 @@
 # North Star Metric
 
 **Team:** Nemesis  
-**Product:** Nemesis Platform (working name)  
+**Product:** Musa
 **Date:** April 15, 2026  
 **Version:** 1.0  
 
