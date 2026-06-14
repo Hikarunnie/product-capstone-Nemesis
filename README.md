@@ -1,92 +1,165 @@
-# Musa — Simple storefronts for handmade creators
+# Musa — Product Capstone 2026
 
-**Musa** helps handmade creators turn Instagram interest into clear product listings, simple storefronts, and manageable orders.
+**Tagline:** A simple selling flow for handmade creators who want to publish products, show their studio, and avoid messy DM-based order management.
 
-## Product Tagline
+| Field       | Details                                               |
+| ----------- | ----------------------------------------------------- |
+| Course      | CS-PD-2026 Product Development for Software Engineers |
+| Semester    | Spring 2026                                           |
+| Institution | Kutaisi International University                      |
+| Team        | Nemesis                                               |
+| Product     | Musa                                                  |
 
-**From handmade creativity to a real online shop — without DM chaos.**
+---
+
+## Live Links
+
+- **Live Product:** [Open Musa](https://musa-front.pages.dev/)
+- **Demo Video:** [Watch Demo Video](https://drive.google.com/file/d/11aw6MfCuA-AOYxVXjkOf3xqtV0mKBXZW/view)
+- **Analytics Dashboard:** [`03-build/analytics/dashboard-link.md`](./03-build/analytics/dashboard-link.md)
+- **Analytics Screenshot:** [`03-build/analytics/analytics-screenshot.png`](./03-build/analytics/analytics-screenshot.png)
+- **Architecture Diagram:** [`03-build/architecture/architecture-diagram.png`](./03-build/architecture/architecture-diagram.png)
+- **Final Case Study:** [`09-final/case-study.md`](./09-final/case-study.md)
+- **Launch Video Documentation:** [`09-final/demo-video.md`](./09-final/demo-video.md)
 
 ---
 
 ## Problem Statement
 
-Many handmade creators want to sell their work, but they delay starting because publishing products, prices, photos, and a shop page feels emotionally risky and “not ready enough.” Creators who do start often manage orders through Instagram or Facebook DMs, which leads to lost details, unclear availability, repeated questions, and missed sales.
+Aspiring and early-stage handmade creators struggle to start and sustain online selling because the process feels emotionally risky and operationally unstructured. Many creators either delay publishing because they feel their products, photos, prices, and page must be perfect, or they begin selling through Instagram/Facebook DMs and become overwhelmed by scattered questions, unclear orders, pricing confusion, and manual tracking.
 
 ---
 
-## Live Product
+## Solution
 
-[Open the live Musa product](https://musa-front.pages.dev/)
+Musa is a lightweight marketplace and creator-studio tool for handmade sellers.
 
----
+It helps creators:
 
-## Demo Video
+- create a simple public studio;
+- publish handmade products;
+- show product prices, categories, and details clearly;
+- make products easier for buyers to discover;
+- reduce reliance on chaotic Instagram/Facebook DMs;
+- move early selling into a clearer product and order flow.
 
-[Watch the 60-second Musa demo video](https://drive.google.com/file/d/11aw6MfCuA-AOYxVXjkOf3xqtV0mKBXZW/view?usp=sharing)
-
----
-
-## Team Members
-
-* Ani Kharabadze
-* Ketevan Shavadze
-* Gvantsa Nozadze
-* Tamar Vatcharadze
+The goal is not to replace creators’ social media presence. The goal is to give handmade creators a structured selling layer that makes the first step of publishing and managing products easier.
 
 ---
 
-## Product Overview
+## Target Users
 
-Musa is a lightweight marketplace and storefront tool for handmade creators. It allows creators to open a studio, publish products, show prices clearly, and make their items easier for buyers to discover and order.
+Musa is built for beginner and early-stage handmade creators, especially people who make:
 
-Our target users are early-stage handmade creators who currently sell through informal channels such as Instagram, Facebook, personal messages, or word of mouth. Musa reduces the friction between making a craft and presenting it as a sellable product.
+- crochet items;
+- jewelry;
+- clothing and accessories;
+- paintings;
+- plushies;
+- pottery;
+- other handmade crafts.
+
+Our ideal customer is a creator who already makes handmade products but struggles with at least one of these pains:
+
+- hesitates to start selling because everything feels like it must be perfect;
+- uses Instagram/Facebook DMs for orders;
+- loses track of prices, colors, sizes, delivery details, or buyer requests;
+- needs a simpler option than a full e-commerce platform.
 
 ---
 
-## Core Features
+## Discovery Evidence
 
-* Creator account registration and login
-* Studio creation for handmade sellers
-* Product listing creation with name, description, price, category, and image
-* Product discovery page for buyers
-* Product detail pages
-* Favourite products
-* Cart flow
-* Order-related backend structure
-* Studio-based product ownership
-* Deployed frontend and backend
+The problem was validated through creator interviews, synthesis, usability testing, and early traction evidence.
+
+Important discovery and validation files:
+
+- [`01-discovery/interview-logs/`](./01-discovery/interview-logs/)
+- [`01-discovery/synthesis/patterns-analysis.md`](./01-discovery/synthesis/patterns-analysis.md)
+- [`01-discovery/synthesis/final-problem-statement.md`](./01-discovery/synthesis/final-problem-statement.md)
+- [`01-discovery/synthesis/competitive-landscape-seed.md`](./01-discovery/synthesis/competitive-landscape-seed.md)
+- [`02-design/user-testing/usability-findings.md`](./02-design/user-testing/usability-findings.md)
+- [`04-gtm/traction/`](./04-gtm/traction/)
+
+Representative interview insights:
+
+> “I feel like I need everything to be perfect before I start.”
+
+> “People would text me randomly and I would forget who ordered what.”
+
+These insights shaped Musa’s focus on reducing emotional friction and replacing scattered DM-based selling with a clearer listing and studio flow.
+
+---
+
+## Product Features
+
+The deployed MVP includes:
+
+- user registration and login;
+- creator studio creation;
+- product listing creation;
+- product discovery/explore page;
+- product cards with images, category, price, and studio information;
+- product detail pages;
+- profile and published-products flow;
+- favorites/cart/order-related flows;
+- backend API for users, studios, products, favorites, cart, and orders;
+- analytics documentation for product learning and traction evidence.
 
 ---
 
 ## Tech Stack
 
-### Frontend
+| Area                | Technology                         | Purpose                                                                 |
+| ------------------- | ---------------------------------- | ----------------------------------------------------------------------- |
+| Frontend            | Next.js, React, TypeScript         | User interface, routing, reusable components                            |
+| Styling             | Tailwind CSS                       | Fast responsive styling and consistent UI                               |
+| Backend             | Django, Django REST Framework      | API, authentication, product/studio/order logic                         |
+| Authentication      | JWT                                | Token-based authentication between frontend and backend                 |
+| Database            | PostgreSQL                         | Relational storage for users, studios, products, and order-related data |
+| Frontend Deployment | Cloudflare Pages                   | Public hosting for the frontend                                         |
+| Backend Deployment  | Render                             | Hosted backend/API environment                                          |
+| Version Control     | Git + GitHub                       | Collaboration, commit history, and final repository review              |
+| Analytics           | Analytics dashboard + event schema | Tracks user/product behavior and supports product decisions             |
 
-* **Next.js** — React framework for the user interface
-* **TypeScript** — safer and clearer frontend development
-* **Tailwind CSS** — fast styling and responsive layout
-* **Cloudflare Pages** — frontend deployment
+More detail: [`03-build/architecture/tech-stack.md`](./03-build/architecture/tech-stack.md)
 
-### Backend
+---
 
-* **Django** — backend framework
-* **Django REST Framework** — REST API development
-* **JWT Authentication** — user authentication
-* **PostgreSQL** — relational production database
-* **Render** — backend and database hosting
+## Architecture Overview
 
-### Product and Documentation Tools
+Musa uses a separated frontend-backend architecture.
 
-* **Figma / Stitch** — high-fidelity prototype and product design
-* **GitHub** — version control and repository management
-* **Analytics dashboard** — event and product usage tracking
-* **AI tools** — used for assisted documentation, planning, and implementation support, documented in [`docs/ai-usage-log.md`](docs/ai-usage-log.md)
+The frontend is a Next.js application for buyer and creator-facing pages such as login, signup, explore, studio, profile, product creation, product detail, and published products. The backend is a Django REST API that manages authentication, users, studios, products, favorites, cart, and orders. PostgreSQL stores the main application data. Analytics artifacts document the North Star Metric, tracked events, dashboard link, and dashboard screenshot.
+
+Architecture documentation:
+
+- [`03-build/architecture/system-design.md`](./03-build/architecture/system-design.md)
+- [`03-build/architecture/tech-stack.md`](./03-build/architecture/tech-stack.md)
+- [`03-build/architecture/architecture-diagram.png`](./03-build/architecture/architecture-diagram.png)
+
+---
+
+## Analytics
+
+Analytics evidence is documented in:
+
+- [`03-build/analytics/dashboard-link.md`](./03-build/analytics/dashboard-link.md)
+- [`03-build/analytics/analytics-screenshot.png`](./03-build/analytics/analytics-screenshot.png)
+- [`03-build/analytics/event-schema.md`](./03-build/analytics/event-schema.md)
+- [`03-build/analytics/north-star-metric.md`](./03-build/analytics/north-star-metric.md)
+
+Our North Star Metric is:
+
+> Weekly successfully managed product listings per active creator.
+
+This metric reflects whether creators are actually using Musa to publish and manage selling activity, not only visiting the product.
 
 ---
 
 ## Repository Structure
 
-```txt
+```text
 .
 ├── 00-foundation/
 │   ├── team-contract.md
@@ -94,37 +167,49 @@ Our target users are early-stage handmade creators who currently sell through in
 │   └── team-icp.md
 │
 ├── 01-discovery/
+│   ├── interview-logs/
+│   ├── outreach/
 │   └── synthesis/
 │       ├── patterns-analysis.md
 │       ├── final-problem-statement.md
 │       └── competitive-landscape-seed.md
 │
 ├── 02-design/
-│   ├── prototypes/high-fidelity/figma-link.md
-│   └── user-testing/usability-findings.md
+│   ├── prototypes/
+│   │   └── high-fidelity/
+│   │       └── figma-link.md
+│   └── user-testing/
+│       └── usability-findings.md
 │
 ├── 03-build/
+│   ├── analytics/
+│   │   ├── analytics-screenshot.png
+│   │   ├── dashboard-link.md
+│   │   ├── event-schema.md
+│   │   └── north-star-metric.md
 │   ├── architecture/
+│   │   ├── architecture-diagram.png
 │   │   ├── system-design.md
-│   │   ├── tech-stack.md
-│   │   └── architecture-diagram.png
-│   ├── analytics/dashboard-link.md
-│   ├── experiments/experiment-results.md
+│   │   └── tech-stack.md
+│   ├── experiments/
+│   │   └── experiment-results.md
 │   ├── privacy-security/
 │   │   ├── consent-form.md
 │   │   └── security-tabletop.md
-│   └── reliability/
-│       ├── slo-sheet.md
-│       └── error-budget.md
+│   ├── reliability/
+│   │   ├── error-budget.md
+│   │   └── slo-sheet.md
+│   ├── roadmap/
+│   └── workflow/
 │
 ├── 04-gtm/
-│   ├── growth-strategy.md
 │   ├── financials/
 │   │   ├── unit-economics.md
 │   │   └── 12-month-model.xlsx
-│   ├── growth-projection.xlsx
-│   ├── loops-and-moats.md
-│   └── traction/
+│   ├── traction/
+│   ├── growth-strategy.md
+│   ├── growth_projection.xlsx
+│   └── loops-and-moats.md
 │
 ├── 05-fundraising/
 │   ├── pitch-deck.pdf
@@ -132,11 +217,11 @@ Our target users are early-stage handmade creators who currently sell through in
 │
 ├── 06-strategy/
 │   ├── competitive-analysis.md
-│   ├── strategy-canvas.md
 │   ├── ecosystem-map.md
 │   ├── moat-statement.md
+│   ├── prioritization-framework.md
 │   ├── product-roadmap.md
-│   └── prioritization-framework.md
+│   └── strategy-canvas.md
 │
 ├── 07-team/
 │   └── contribution-logs/
@@ -158,19 +243,105 @@ Our target users are early-stage handmade creators who currently sell through in
 
 ---
 
-## Architecture Overview
+## Go-To-Market
 
-Musa uses a client-server architecture.
+Musa’s go-to-market plan focuses on early handmade creators and design partners.
 
-The frontend is a Next.js application deployed on Cloudflare Pages. Users interact with pages such as Explore, Login, Signup, Studio, Product Details, Cart, and Create Listing. The frontend communicates with the backend through REST API requests.
+GTM materials:
 
-The backend is built with Django REST Framework and exposes API endpoints for authentication, users, studios, products, favourites, cart, and orders. PostgreSQL stores structured product, studio, user, and order-related data. JWT authentication is used to protect user-specific actions such as creating a studio or publishing a product.
+- [`04-gtm/growth-strategy.md`](./04-gtm/growth-strategy.md)
+- [`04-gtm/loops-and-moats.md`](./04-gtm/loops-and-moats.md)
+- [`04-gtm/traction/`](./04-gtm/traction/)
 
-For a more detailed explanation, see:
+The first acquisition channels focus on direct outreach to handmade creators, student/community groups, and early design-partner relationships.
 
-* [`03-build/architecture/system-design.md`](03-build/architecture/system-design.md)
-* [`03-build/architecture/tech-stack.md`](03-build/architecture/tech-stack.md)
-* [`03-build/architecture/architecture-diagram.png`](03-build/architecture/architecture-diagram.png)
+---
+
+## Business Model
+
+Musa uses an 8% platform fee per successful order.
+
+Financial materials:
+
+- [`04-gtm/financials/unit-economics.md`](./04-gtm/financials/unit-economics.md)
+- [`04-gtm/financials/12-month-model.xlsx`](./04-gtm/financials/12-month-model.xlsx)
+- [`04-gtm/growth_projection.xlsx`](./04-gtm/growth_projection.xlsx)
+
+The financial model includes revenue projections, cost structure, CAC/LTV assumptions, payback period, and growth scenarios.
+
+---
+
+## Traction
+
+Traction evidence is documented in:
+
+- [`04-gtm/traction/`](./04-gtm/traction/)
+- [`03-build/analytics/dashboard-link.md`](./03-build/analytics/dashboard-link.md)
+- [`03-build/analytics/analytics-screenshot.png`](./03-build/analytics/analytics-screenshot.png)
+
+This includes design-partner evidence, waitlist/early-interest evidence, and analytics evidence from product usage.
+
+---
+
+## Fundraising Materials
+
+Final Demo Day materials:
+
+- [`05-fundraising/pitch-deck.pdf`](./05-fundraising/pitch-deck.pdf)
+- [`05-fundraising/one-pager.pdf`](./05-fundraising/one-pager.pdf)
+
+The pitch deck covers:
+
+1. Problem with ICP and verbatim quote
+2. Solution
+3. Why Now
+4. Market Size
+5. Product
+6. Traction
+7. Business Model
+8. Go-To-Market
+9. Competition and moat
+10. Ask
+
+---
+
+## Strategy
+
+Strategy materials:
+
+- [`06-strategy/competitive-analysis.md`](./06-strategy/competitive-analysis.md)
+- [`06-strategy/strategy-canvas.md`](./06-strategy/strategy-canvas.md)
+- [`06-strategy/ecosystem-map.md`](./06-strategy/ecosystem-map.md)
+- [`06-strategy/moat-statement.md`](./06-strategy/moat-statement.md)
+- [`06-strategy/product-roadmap.md`](./06-strategy/product-roadmap.md)
+- [`06-strategy/prioritization-framework.md`](./06-strategy/prioritization-framework.md)
+
+---
+
+## Privacy, Security, and Reliability
+
+Privacy, security, and reliability documentation:
+
+- [`03-build/privacy-security/consent-form.md`](./03-build/privacy-security/consent-form.md)
+- [`03-build/privacy-security/security-tabletop.md`](./03-build/privacy-security/security-tabletop.md)
+- [`03-build/reliability/slo-sheet.md`](./03-build/reliability/slo-sheet.md)
+- [`03-build/reliability/error-budget.md`](./03-build/reliability/error-budget.md)
+- [`08-legal/privacy-notice.md`](./08-legal/privacy-notice.md)
+
+---
+
+## Team
+
+| Name              | Role                 | GitHub                                                 |
+| ----------------- | -------------------- | ------------------------------------------------------ |
+| Ketevan Shavadze  | Program Lead         | [@Ketishavadze](https://github.com/Ketishavadze)       |
+| Gvantsa Nozadze   | Discovery / GTM Lead | [@Gvantsa-N](https://github.com/Gvantsa-N)             |
+| Ani Kharabadze    | Tech Lead            | [@Hikarunnie](https://github.com/Hikarunnie)           |
+| Tamar Vatcharadze | Discovery Lead       | [@takovatcharadze](https://github.com/takovatcharadze) |
+
+Contribution evidence:
+
+- [`07-team/contribution-logs/`](./07-team/contribution-logs/)
 
 ---
 
@@ -178,27 +349,29 @@ For a more detailed explanation, see:
 
 ### Prerequisites
 
-Before running the project locally, install:
+Install:
 
-* Node.js 20 or later
-* npm
-* Python 3.12 or later
-* pip
-* PostgreSQL
-* Git
+- Git
+- Node.js
+- npm
+- Python
+- pip
+- PostgreSQL
 
 ---
 
-## Frontend Setup
-
-Clone the repository:
+### Clone Repository
 
 ```bash
 git clone https://github.com/Hikarunnie/product-capstone-Nemesis.git
 cd product-capstone-Nemesis
 ```
 
-Go to the frontend folder:
+---
+
+### Frontend Setup
+
+Enter the frontend directory used by the project:
 
 ```bash
 cd frontend
@@ -210,76 +383,64 @@ Install dependencies:
 npm install
 ```
 
-Create a local environment file if needed:
+Create local environment file if needed:
 
 ```bash
 cp .env.example .env.local
 ```
 
-Add the backend API URL:
-
-```env
-NEXT_PUBLIC_API_URL=http://127.0.0.1:8000
-```
-
-Run the frontend:
+Run locally:
 
 ```bash
 npm run dev
 ```
 
-The frontend should run at:
+Frontend local URL:
 
-```txt
+```text
 http://localhost:3000
 ```
 
 ---
 
-## Backend Setup
+### Backend Setup
 
-From the repository root, go to the backend folder:
+Enter the backend directory used by the project:
 
 ```bash
 cd backend
 ```
 
-Create and activate a virtual environment.
-
-On macOS/Linux:
+Create a virtual environment:
 
 ```bash
 python -m venv .venv
+```
+
+Activate it.
+
+Windows:
+
+```bash
+.venv\Scripts\activate
+```
+
+macOS/Linux:
+
+```bash
 source .venv/bin/activate
 ```
 
-On Windows PowerShell:
-
-```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-```
-
-Install Python dependencies:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Create a local `.env` file if needed:
+Create local environment file if needed:
 
 ```bash
 cp .env.example .env
-```
-
-Example environment variables:
-
-```env
-SECRET_KEY=replace-with-local-secret-key
-DEBUG=True
-DATABASE_URL=postgresql://username:password@localhost:5432/musa
-ALLOWED_HOSTS=127.0.0.1,localhost
-CORS_ALLOWED_ORIGINS=http://localhost:3000
 ```
 
 Run migrations:
@@ -288,190 +449,59 @@ Run migrations:
 python manage.py migrate
 ```
 
-Start the backend server:
+Start backend:
 
 ```bash
 python manage.py runserver
 ```
 
-The backend should run at:
+Backend local URL:
 
-```txt
+```text
 http://127.0.0.1:8000
 ```
 
 ---
 
-## Main API Areas
+## Environment Variables
 
-The backend includes API support for:
+Common environment variables:
 
-* User registration
-* User login
-* Current user profile
-* Studio creation and retrieval
-* Product creation, listing, editing, and deletion
-* Favourite products
-* Cart
-* Orders
+```text
+DATABASE_URL=
+SECRET_KEY=
+DEBUG=
+ALLOWED_HOSTS=
+CORS_ALLOWED_ORIGINS=
+NEXT_PUBLIC_API_URL=
+```
 
----
-
-## Discovery and Validation Evidence
-
-The product direction is based on customer discovery with handmade creators and potential buyers. The research showed two repeated pain points:
-
-1. Creators hesitate to start selling because the process feels emotionally risky and they feel their shop must look perfect before publishing.
-2. Creators who already sell often manage everything through DMs, which makes order tracking and communication messy.
-
-Discovery evidence and synthesis are documented in:
-
-* [`01-discovery/synthesis/patterns-analysis.md`](01-discovery/synthesis/patterns-analysis.md)
-* [`01-discovery/synthesis/final-problem-statement.md`](01-discovery/synthesis/final-problem-statement.md)
-* [`00-foundation/team-icp.md`](00-foundation/team-icp.md)
+Production secrets are not committed to the repository.
 
 ---
 
-## Go-To-Market Summary
+## AI Usage and Process Evidence
 
-Musa’s initial go-to-market strategy focuses on reaching early-stage handmade creators through specific local and community-based channels. The first target segment is student and young creator communities where handmade selling already happens informally through social media.
+Process documentation:
 
-The go-to-market plan includes:
-
-* KIU student creator communities
-* Instagram handmade creator outreach
-* Local craft and small-business communities
-
-Detailed growth planning is documented in:
-
-* [`04-gtm/growth-strategy.md`](04-gtm/growth-strategy.md)
-* [`04-gtm/financials/unit-economics.md`](04-gtm/financials/unit-economics.md)
-* [`04-gtm/loops-and-moats.md`](04-gtm/loops-and-moats.md)
+- [`docs/ai-usage-log.md`](./docs/ai-usage-log.md)
+- [`docs/standup-log.md`](./docs/standup-log.md)
 
 ---
 
-## Business Model
+## Final Submission
 
-Musa uses a transaction-based platform model. The planned business model is an **8% platform fee per completed order**.
+Final submission checklist:
 
-This model aligns Musa’s revenue with creator success: Musa earns only when creators successfully sell products through the platform.
-
-Financial assumptions, CAC, LTV, payback period, and projections are documented in:
-
-* [`04-gtm/financials/unit-economics.md`](04-gtm/financials/unit-economics.md)
-* [`04-gtm/financials/12-month-model.xlsx`](04-gtm/financials/12-month-model.xlsx)
-* [`04-gtm/growth-projection.xlsx`](04-gtm/growth-projection.xlsx)
-
----
-
-## Traction
-
-Traction evidence is documented in:
-
-* [`04-gtm/traction/`](04-gtm/traction/)
-* [`03-build/analytics/dashboard-link.md`](03-build/analytics/dashboard-link.md)
-* [`05-fundraising/pitch-deck.pdf`](05-fundraising/pitch-deck.pdf)
-
-The traction evidence includes user interest, analytics, and validation signals collected during the product development process.
+- Repository is public.
+- Final tag is `cp4-submission`.
+- README includes product name, tagline, problem statement, live product URL, demo video link, team members, tech stack, setup instructions, architecture overview, and license declaration.
+- Required folders `00-foundation` through `09-final` are present.
+- Required CP4 evidence is organized in the repository.
+- Links in this README resolve correctly.
 
 ---
 
-## Privacy, Security, and Reliability
+## License
 
-Musa documents privacy, consent, security, and reliability practices as part of the final product repository.
-
-Privacy and security documents:
-
-* [`03-build/privacy-security/consent-form.md`](03-build/privacy-security/consent-form.md)
-* [`03-build/privacy-security/security-tabletop.md`](03-build/privacy-security/security-tabletop.md)
-* [`08-legal/privacy-notice.md`](08-legal/privacy-notice.md)
-
-Reliability documents:
-
-* [`03-build/reliability/slo-sheet.md`](03-build/reliability/slo-sheet.md)
-* [`03-build/reliability/error-budget.md`](03-build/reliability/error-budget.md)
-
----
-
-## Fundraising Materials
-
-Final Demo Day fundraising materials are included in:
-
-* [`05-fundraising/pitch-deck.pdf`](05-fundraising/pitch-deck.pdf)
-* [`05-fundraising/one-pager.pdf`](05-fundraising/one-pager.pdf)
-
-The pitch deck includes the required 10 slides:
-
-1. Problem
-2. Solution
-3. Why Now
-4. Market Size
-5. Product
-6. Traction
-7. Business Model
-8. Go-To-Market
-9. Competition
-10. Ask
-
----
-
-## Strategy Documents
-
-The final strategy section includes competitive analysis, strategy canvas, ecosystem map, moat statement, product roadmap, and prioritization framework.
-
-See:
-
-* [`06-strategy/competitive-analysis.md`](06-strategy/competitive-analysis.md)
-* [`06-strategy/strategy-canvas.md`](06-strategy/strategy-canvas.md)
-* [`06-strategy/ecosystem-map.md`](06-strategy/ecosystem-map.md)
-* [`06-strategy/moat-statement.md`](06-strategy/moat-statement.md)
-* [`06-strategy/product-roadmap.md`](06-strategy/product-roadmap.md)
-* [`06-strategy/prioritization-framework.md`](06-strategy/prioritization-framework.md)
-
----
-
-## Final Submission Materials
-
-Final case study and demo video documentation are included in:
-
-* [`09-final/case-study.md`](09-final/case-study.md)
-* [`09-final/demo-video.md`](09-final/demo-video.md)
-
----
-
-## AI Usage Disclosure
-
-AI tools were used to support documentation drafting, code debugging, product planning, and repository organization. All AI-assisted work was reviewed by team members before being accepted, modified, or discarded.
-
-The full AI usage log is available here:
-
-* [`docs/ai-usage-log.md`](docs/ai-usage-log.md)
-
----
-
-## Standup Documentation
-
-Sprint standup history is documented in:
-
-* [`docs/standup-log.md`](docs/standup-log.md)
-
----
-
-## Open-Source License
-
-This project is released under the **MIT License**.
-
-See the full license here:
-
-* [`LICENSE`](LICENSE)
-
----
-
-## Repository Status
-
-This repository is the final Demo Day submission for:
-
-**CS-PD-2026 | Checkpoint 4: Demo Day**
-**Kutaisi International University**
-**Team Nemesis**
-**Product: Musa**
+This project is released under the MIT License. See [`LICENSE`](./LICENSE) for details.
