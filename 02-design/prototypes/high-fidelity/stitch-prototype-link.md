@@ -1,7 +1,7 @@
 # High-Fidelity Prototype: Stitch
 
 **Team:** [Nemesis]  
-**Product:** Craft Market  
+**Product:** Musa - Craft Market  
 **Tool:** Google Stitch  
 **Created:** [5/6/2026]  
 **Status:** Draft
